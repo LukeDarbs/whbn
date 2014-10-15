@@ -18,7 +18,7 @@ set_include_path( "inc/" );
 	$domain    = $_SERVER['SERVER_NAME'];
 	// $full_url  = "$protocol://{$domain}{$disp_port}{$base_url}"; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
 	$full_url  = "$protocol://{$domain}{$disp_port}".ROOT_URL; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
-	$site_root = $full_url ;
+	$site_root = $full_url . "/" ;
 
 	global $site_root;
 
