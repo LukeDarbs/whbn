@@ -1,0 +1,46 @@
+//
+// Typography
+// --------------------------------------------------
+
+
+// Headings
+// -------------------------
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: @headings-font-family;
+	text-transform: uppercase;
+	line-height: @headings-line-height;
+	letter-spacing: 1px;
+}
+
+h1 {
+	font-size: @font-size-h4;
+}
+
+@media  (min-width: (@screen-sm-min - 250px)) {
+
+	h1 {
+		font-size: @font-size-h3;
+	}
+
+}
+
+@media  (min-width: @screen-md-min) {
+
+	h1 {
+		font-size: @font-size-h1;
+	}
+
+}
+
+a {
+	.snap-fade();
+	&:hover {
+		.snap-fade-hover();
+	}
+}
+
+abbr[title] {
+	border: none;
+}
