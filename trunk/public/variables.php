@@ -19,6 +19,11 @@ set_include_path( "inc/" );
 
 	global $site_root;
 
+	define("ROOT", __DIR__ ."/");
+	define("HTTP", ($_SERVER["HTTP_HOST"] == "localhost")
+	   ? "http://localhost/your_work_folder/"
+	   : "http://your_site_name.com/"
+	);
 
 include("functions.php");
 include("posts.php");
@@ -80,7 +85,7 @@ include("posts.php");
 		</article> <!-- /.container -->
 
 
-<?php include("footer.php"); ?>
+
 <?php include("end.php"); ?>
 
 
