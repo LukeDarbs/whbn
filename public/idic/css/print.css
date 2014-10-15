@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: #353535;
+  z-index:2;
+}
+
+#wrap {
+  margin: 0;
+  left: 20px;
+  top: 100px;
+  width: 850px;
+  padding: 0;
+}
+
+#nav {
+  top: 355px;
+  left: 0;
+  margin: 0 ;
+  padding: 0;
+}
+
+#footer {
+  color: #888;
+  font-size: 11px;
+  margin: 0;
+  padding: 0 0 0 160px;
+  left: 20px;
+  width: 850px;
+  text-align:left;
+}
+
+#alphaghetto {
+  width: 0;
+  height: 0;
+}
+
+#lettropolis {
+  width: 0;
+  height: 0;
+}
+
+#busyb {
+  width: 0;
+  height: 0;
+}

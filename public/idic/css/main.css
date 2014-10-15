@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Begin Layout */
+
+body {
+  margin: 0;
+  background: #323232 url(../rsrc/furniture/idic-background.png) repeat-x fixed 50% -60px;
+  padding-bottom: 175px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #353535;
+}
+
+#wrap {
+  background-color: #fff;
+  position: relative;
+  margin: 0 0 0 -385px;
+  left: 50%;
+  top: 100px;
+  width: 770px;
+  padding: 0;
+}
+
+#headintheclouds {
+  position: absolute;
+  top: -70px;
+  left: -99px;
+  width: 939px;
+  height: 309px;
+  background:url(../rsrc/furniture/idic-clouds.png) no-repeat;
+}
+
+#headintheclouds img {
+  position:absolute;
+  top: 165px;
+  left: 195px;
+}
+
+#content {
+  margin: 0;
+  padding: 240px 150px 130px 160px;
+  z-index: 5;
+}
+
+#content.margin p, #content.margin h2 {
+  margin-left: 93px;
+}
+
+#busyb {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  margin: 100px 0 0 335px;
+  width: 86px;
+  height: 67px;
+  background:url(../rsrc/furniture/idic-busy-b.png) no-repeat;
+  z-index: 1;
+}
+
+#footer {
+  position: relative;
+  top: 60px;
+  z-index: 2;
+  text-align: center;
+  color: #888;
+  font-size: 11px;
+}
+
+#alphaghetto {
+  position: absolute;
+  left: 40% ;
+  bottom: -115px;
+  margin: 0 0 0 -440px;
+  background: url(../rsrc/furniture/idic-alphaghetto.png) no-repeat;
+  width: 395px;
+  height: 327px;
+}
+
+#lettropolis {
+  position: absolute;
+  right: 40% ;
+  bottom: -154px;
+  margin: 0 -400px 0 0;
+  background: url(../rsrc/furniture/idic-lettropolis.png) no-repeat;
+  width: 395px;
+  height: 352px;
+}
+
+/* End Layout */
+
+/* Begin Text */
+
+a {
+  text-decoration: none;
+  color: #777777;
+  border: none;
+}
+
+a:hover {
+  text-decoration: none;
+  background: url(../rsrc/furniture/idic-link-tint.jpg) bottom left repeat-x  ;
+  color: #353535;
+}
+
+a.thumb {
+  position: relative;
+  display: block;
+  width: 77px;
+  height: 77px;
+  overflow: hidden;
+  float: left;
+  margin: -5px 0 0 0;
+  background: none;
+}
+
+a img {
+  position: relative;
+  border: none;
+}  
+
+a.thumb:hover img {
+  position: relative;
+  margin: -77px 0 0 0;
+}
+
+h2 {
+  font-size: 13px;
+  color: #353535;
+  margin: 30px 0 -5px 0;
+  padding: 0;
+}
+
+/* End Text */
+
+/* Begin Navigation */
+
+ul#nav {
+  position: fixed;
+  top: 349px;
+  left: 50%;
+  margin: 0 0 0 -393px;
+  padding: 0;
+  width: 153px;
+  text-indent: -9000px;
+  list-style:none;
+}
+	
+ul#nav a {
+  display:block;
+  width: 153px;
+  height: 32px;
+  text-decoration:none;
+  color: #353535;
+}
+
+li#home a {
+  background: url(../rsrc/furniture/idic-nav-home.png) no-repeat 0px 0px;
+}
+
+li#work a {
+  background: url(../rsrc/furniture/idic-nav-work.png) no-repeat 0px 0px;
+}
+
+li#contact a {
+  background: url(../rsrc/furniture/idic-nav-contact.png) no-repeat 0px 0px;
+}
+
+li#home a:hover, li#work a:hover, li#contact a:hover {
+  background-position: 0px -32px ;
+}
+
+/* End Navigation */
+

@@ -1,0 +1,46 @@
+//
+// I dream in colour 
+// layout and design
+// ===============================
+
+//
+// NBA Payback (Black background)
+// -------------------------------
+
+.post-nba-payback {
+
+	background: #000 url() ;
+	color: @gray-dark;
+
+	.prev-project,
+	.next-project {
+		
+		background-color: rgba(255, 255, 255, 0.1);
+		
+		&:hover {
+			background-color: rgba(255, 255, 255, 0.2);
+		}
+
+		@media (min-width: @screen-md-min) {
+
+			&:hover {
+				p {
+					color: black;
+				}
+			}
+
+		}
+	}
+
+	.prev-project {
+		background-image: url('img/arrow-left-black.png');
+	}
+	.next-project {
+		background-image: url('img/arrow-right-black.png');
+	}
+
+	footer {
+		color: @gray-dark;
+	}
+
+}

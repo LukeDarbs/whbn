@@ -1,0 +1,201 @@
+//
+// I dream in colour 
+// layout and design
+// ===============================
+
+//
+// Gallery pages
+// -------------------------------
+
+
+.gallery {
+
+	.gallery-width {
+		.make-xs-column(12);
+	}
+
+	.make-row();
+	padding: 0 8%;
+
+	ul {
+		position: relative;
+		margin: 0 auto ;
+		list-style: none;
+		max-width: 1000px;
+		padding: 0 0 10px;
+		@media (min-width: @screen-sm-min) {
+			padding-bottom: 40px;
+		}
+
+		li {
+			margin: 20px 0 ;
+			max-width: 1000px;
+			display: flex;
+			position: relative;
+		}
+
+		img {
+			margin: auto;
+			.img-responsive()
+		}
+
+		.canvas {
+			 background: transparent url('img/background-1000.jpg') no-repeat;
+			 .background-cover(100% auto);
+		}
+	}
+
+}
+
+//
+// Site launch button
+// ---------------------------------
+
+.launch-site {
+	position: absolute;
+	top:0;
+	left: 0;
+	// width: 100%;
+	// height: 100%;
+	z-index: 2000;
+	// background:  transparent url('img/launch-site.png') no-repeat center center;
+	.opacity(.3);
+
+	&:hover {
+		.opacity(.8);
+	}
+
+	p {
+		.sr-only();
+	}
+}
+
+//
+// Next / Previous project navigation
+// ---------------------------------
+
+.prev-project,
+.next-project {
+
+	float: left;
+	position: relative;
+	display: block;
+	height: 130px;
+	width: 47%;
+	overflow: hidden;
+	background: rgba(255, 255, 255, 0.25) url('img/arrow-left.png') no-repeat 30px center;
+	.clearfix();
+	.snap-fade();
+	.transition-duration(.5s);
+	z-index: 3000;
+
+	p {
+		display: block;
+		width: 100%;
+		position: relative;
+		top: 50%;
+		margin-top: 40px;
+		padding: 0 30px;
+		text-align: left;
+		font-size: (@font-size-base * .9); // ~18px
+		color: transparent;
+		// .snap-fade();
+	}
+
+	&:hover {
+		text-decoration: none;
+		background-color: rgba(255, 255, 255, 0.6);
+		.snap-fade-hover();
+
+		p {
+			text-decoration: none;
+			.snap-fade-hover();
+			}
+
+	}
+
+	@media (min-width: @screen-sm-min) {
+
+		float: none;
+		position: fixed;
+		height: 100%;
+		width: 08%;
+
+	}
+
+	@media (min-width: @screen-md-min) {
+
+		width: 10%;
+		&:hover {
+			overflow: visible;
+			width: 150px;
+			p {
+				color: @gray-light;
+				width: 150px;
+			}
+		}
+
+	}
+
+	@media (min-width: @screen-lg-min) {
+
+		&:hover {
+			width: 200px;
+			p {
+			width: 200px;
+			}
+		}
+	}
+
+	@media (min-width: 2000px) {
+
+		&:hover {
+			width: 300px;
+			p {
+			width: 300px;
+			}
+		}
+	}
+
+	@media (min-width: 3000px) {
+
+		&:hover {
+			width: 450px;
+			p {
+			width: 450px;
+			}
+		}
+	}
+}
+
+.next-project {
+	
+	float: right;
+	background: rgba(255, 255, 255, 0.25) url('img/arrow-right.png') no-repeat right 30px center;
+
+	p {
+		text-align: right;
+	}
+
+	@media (min-width: @screen-sm-min) {
+	
+	float: none;
+	right: 0;
+
+	}
+}
+
+//
+// Description text
+// ---------------------------------
+
+.description {
+	.make-xs-column(10);
+	.make-xs-column-offset(1);
+	.make-sm-column(8);
+	.make-sm-column-offset(2);
+	.make-md-column(6);
+	.make-md-column-offset(3);
+	padding-bottom: 40px;
+	overflow: hidden;
+}
