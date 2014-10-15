@@ -24,7 +24,7 @@ set_include_path( "" );
 	$disp_port	= ($protocol == 'http' && $port == 80 || $protocol == 'https' && $port == 443) ? '' : ":$port";
 	$domain		= $_SERVER['SERVER_NAME'];
 	$site_root	= "$protocol://{$domain}{$disp_port}{$base_url}"; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
-	$site_root	= substr( $site_root, 0, -(strlen( "inc/vars.php" )));
+	$site_root	= substr( $site_root, 0, -(strlen( "inc/variables.php" )));
 
 	global $site_root;
 
