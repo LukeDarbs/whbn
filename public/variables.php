@@ -6,27 +6,17 @@ set_include_path( "inc/" );
 // http://blog.lavoie.sl/2013/02/php-document-root-path-and-url-detection.html
 // ==================================================================================
 
-	// $base_dir	= __FILE__; // Absolute path to your installation, ex: /var/www/mywebsite
-	// $doc_root	= preg_replace("!{$_SERVER['SCRIPT_NAME']}$!", '', $_SERVER['SCRIPT_FILENAME']); # ex: /var/www
-	// $base_url	= preg_replace("!^{$doc_root}!", '', $base_dir); # ex: '' or '/mywebsite'
-	// $protocol	= empty($_SERVER['HTTPS']) ? 'http' : 'https';
-	// $port 		= $_SERVER['SERVER_PORT'];
-	// $disp_port	= ($protocol == 'http' && $port == 80 || $protocol == 'https' && $port == 443) ? '' : ":$port";
-	// $domain		= $_SERVER['SERVER_NAME'];
-	// // $site_root	= "$protocol://{$domain}{$disp_port}{$base_url}"; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
-	// // $site_root	= substr( $site_root, 0, -(strlen( "inc/vars.php" )));
-	// $site_root	= $_SERVER['SERVER_NAME']."/";
+	$base_dir  = __DIR__; // Absolute path to your installation, ex: /var/www/mywebsite
+	$doc_root  = preg_replace("!{$_SERVER['SCRIPT_NAME']}$!", '', $_SERVER['SCRIPT_FILENAME']); # ex: /var/www
+	$base_url  = preg_replace("!^{$doc_root}!", '', $base_dir); # ex: '' or '/mywebsite'
+	$protocol  = empty($_SERVER['HTTPS']) ? 'http' : 'https';
+	$port      = $_SERVER['SERVER_PORT'];
+	$disp_port = ($protocol == 'http' && $port == 80 || $protocol == 'https' && $port == 443) ? '' : ":$port";
+	$domain    = $_SERVER['SERVER_NAME'];
+	$full_url  = "$protocol://{$domain}{$disp_port}{$base_url}"; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
+	$site_root = $full_url ;
 
-	// global $site_root;
-
-	$domain = $_SERVER['HTTP_HOST'];
-	$docRoot = $_SERVER['DOCUMENT_ROOT'];
-	$dirRoot = dirname(__FILE__);
-	$protocol = isset($_SERVER["HTTPS"]) ? 'https://' : 'http://';
-	//$urlDir = str_replace('/include', '/',str_replace($docRoot, '', $dirRoot));
-	$urlDir = str_replace($docRoot, '', $dirRoot);
-	$site_path = $protocol.$domain.$urlDir;
-	define ('BASE_URL', $site_path);
+	global $site_root;
 
 include("functions.php");
 include("posts.php");
@@ -84,8 +74,8 @@ include("posts.php");
 					<p><?php echo $site_root; ?></p>
 				</li>
 				<li>
-					<h4>$site_path</h4>
-					<p><?php echo $site_path; ?></p>
+					<h4>$full_url</h4>
+					<p><?php echo $full_url; ?></p>
 				</li>
 			</ul>
 
