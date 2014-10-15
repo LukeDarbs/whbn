@@ -54,6 +54,14 @@ include("posts.php");
 
 			<ul>
 				<li>
+					<h4>dirname( __FILE__ ) . '/../header.php'</h4>
+					<p><?php echo dirname( __FILE__ ) . '/../header.php'; ?></p>
+				</li>
+				<li>
+					<h4>dirname( __FILE__ )</h4>
+					<p><?php echo dirname( __FILE__ ); ?></p>
+				</li>
+				<li>
 					<h4>__FILE__</h4>
 					<p><?php echo __FILE__; ?></p>
 				</li>
