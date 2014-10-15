@@ -15,8 +15,8 @@
 	$port      = $_SERVER['SERVER_PORT'];
 	$disp_port = ($protocol == 'http' && $port == 80 || $protocol == 'https' && $port == 443) ? '' : ":$port";
 	$domain    = $_SERVER['SERVER_NAME'];
-	$full_url  = "$protocol://{$domain}{$disp_port}{$base_url}"; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
-	// $full_url  = "$protocol://{$domain}{$disp_port}".ROOT_URL; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
+	// $full_url  = "$protocol://{$domain}{$disp_port}{$base_url}"; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
+	$full_url  = "$protocol://{$domain}{$disp_port}".ROOT_URL; # Ex: 'http://example.com', 'https://example.com/mywebsite', etc.
 	$site_root = substr($full_url, 0, -4)  . "/" ;
 
 	global $site_root;
