@@ -2,7 +2,7 @@
 
 set_include_path( "../../inc/" );
 
-// include("vars.php");
+include("vars.php");
 include("functions.php");
 include("posts.php");
 
