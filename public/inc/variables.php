@@ -6,7 +6,7 @@ set_include_path( "" );
 // http://blog.lavoie.sl/2013/02/php-document-root-path-and-url-detection.html
 // ==================================================================================
 
-	$base_dir  = __DIR__ ; // Absolute path to your installation, ex: /var/www/mywebsite
+	$base_dir  = __FILE__; // Absolute path to your installation, ex: /var/www/mywebsite
 	$doc_root  = preg_replace("!{$_SERVER['SCRIPT_NAME']}$!", '', $_SERVER['SCRIPT_FILENAME']); # ex: /var/www
 	$base_url  = preg_replace("!^{$doc_root}!", '', $base_dir); # ex: '' or '/mywebsite'
 	$protocol  = empty($_SERVER['HTTPS']) ? 'http' : 'https';
