@@ -5,7 +5,7 @@
 
 	// these two supplements from http://www.londatiga.net/it/how-to-define-global-absolute-path-in-php/
 	define('ROOT_DIR', dirname(__FILE__));
-	define('ROOT_URL', substr($_SERVER['PHP_SELF'], 0, - (strlen($_SERVER['SCRIPT_FILENAME']) - strlen(ROOT_DIR))));
+	define('ROOT_URL', substr($_SERVER['PHP_SELF'], 0, - (strlen("vars.php") - strlen(ROOT_DIR))));
 
 	// the rest based on http://blog.lavoie.sl/2013/02/php-document-root-path-and-url-detection.html
 	$base_dir  = __DIR__ ; // Absolute path to your installation, ex: /var/www/mywebsite
