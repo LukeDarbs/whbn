@@ -60,7 +60,7 @@ include("posts.php");
 					<h1><?php echo $this_post['title']; ?></h1>
 					<p> Mobile-first wasn’t just a buzzword for the Mayor’s Fund for London: 
 						from UX, through prototyping and into the visual design, our focus was 
-						to deliver ease and simplicity to Londoner’s on the move, helping to 
+						to deliver ease and simplicity to Londoners on the move, helping to 
 						make the micro-donation programme as successful as possible for a worthy cause.
 				</div>
 
