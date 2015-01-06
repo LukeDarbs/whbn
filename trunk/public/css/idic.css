@@ -1073,7 +1073,7 @@ abbr[title] {
   padding: 0;
   margin: 0;
 }
-.rslides img {
+.rslides li {
   -webkit-backface-visibility: hidden;
   position: absolute;
   display: none;
@@ -1081,9 +1081,8 @@ abbr[title] {
   left: 0;
   top: 0;
 }
-.rslides :first-child {
+.rslides li:first-child {
   position: relative;
-  display: block;
   float: left;
 }
 .rslides img {

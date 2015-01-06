@@ -9,7 +9,7 @@
 	margin: 0;
 	}
 
-.rslides img {
+.rslides li {
 	-webkit-backface-visibility: hidden;
 	position: absolute;
 	display: none;
@@ -18,11 +18,11 @@
 	top: 0;
 	}
 
-.rslides :first-child {
+.rslides li:first-child {
 	position: relative;
-	display: block;
+	// display: block; Commented as it was causing a strange jump between slides
 	float: left;
-	}
+	} 
 
 .rslides img {
 	display: block;
