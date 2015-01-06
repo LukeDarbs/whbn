@@ -40,6 +40,9 @@ include("posts.php");
 							<img src="images/welcome.jpg" alt="Penny for London welcome page" />
 						</li>
 						<li>
+							<img src="images/projects.jpg" alt="Penny for London charity projects page" />
+						</li>
+						<li>
 							<img src="images/responsive-workings.jpg" alt="Penny for London responsive grid workings" />
 						</li>
 						<li>
