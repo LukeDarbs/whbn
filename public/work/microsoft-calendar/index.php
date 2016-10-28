@@ -12,10 +12,10 @@ include("posts.php");
 	
 	// Post variables 
 
-	$this_post = $post_info['dove'];
+	$this_post = $post_info['microsoft_calendar'];
 
-	$prev_post = $post_info['nba_payback'];
-	$next_post = $post_info['penny_for_london'];
+	$prev_post = $post_info['reward_website'];
+	$next_post = $post_info['cashback_plus'];
 
 ?>
 
@@ -31,31 +31,22 @@ include("posts.php");
 
 					<ul>
 						<li>
-							<img src="images/home-desktop.jpg" alt="Dove global website home page design" />
+							<img src="images/calendar-face-on.jpg" alt="Microsoft Office 365 facts calendar, front view" />
 						</li>
 						<li>
-							<img src="images/product-detail-page-tablet.jpg" alt="Dove product detail page design" />
+							<img src="images/selected-set-1.jpg" alt="Microsoft Office 365 facts calendar, selected dates" />
 						</li>
 						<li>
-							<img src="images/product-detail-page-mobile.jpg" alt="Dove product detail page design" />
+							<img src="images/calendar-side-on.jpg" alt="Microsoft Office 365 facts calendar, side view" />
 						</li>
 						<li>
-							<img src="images/product-landing-page-tablet.jpg" alt="Dove product listing page design" />
+							<img src="images/selected-set-2.jpg" alt="Microsoft Office 365 facts calendar, selected dates" />
 						</li>
 						<li>
-							<img src="images/hub-desktop.jpg" alt="Dove stories hub page design" />
+							<img src="images/selected-set-3.jpg" alt="Microsoft Office 365 facts calendar, selected dates" />
 						</li>
 						<li>
-							<img src="images/article-mobile.jpg" alt="Dove article page design" />
-						</li>
-						<li>
-							<img src="images/work-life-1.jpg" alt="Dove brand DNA to digital mood-boards" />
-						</li>
-						<li>
-							<img src="images/work-life-2.jpg" alt="Dove product information architecture" />
-						</li>
-						<li>
-							<img src="images/work-life-3.jpg" alt="Dove client review" />
+							<img src="images/calendar-in-situ.jpg" alt="Microsoft Office 365 facts calendar, in-situ" />
 						</li>
 					</ul>
 
@@ -67,12 +58,9 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> This project was transformative for the much-loved Real Beauty brand. 
-					As the foundation of a new platform for Unilever, we had the freedom to 
-					bring the brand DNA to life in digital. We crafted every detail of visual balance, 
-					animation and language to complement the premium qualities of the products and 
-					Dove’s mission for Real Beauty. All-in-all, a result that surprised and delighted 
-					the client in light of the ‘impossible timeline’.
+					<p>365 days for 365 illustrated facts… A celebration of the portable power of Microsoft Office 365. 
+					We took on the Nokia and Office 365 house illustration style as part of the launch of Nokia’s new 
+					Windows-powered smartphones.
 				</div>
 
 			</div>
