@@ -31,31 +31,31 @@ include("posts.php");
 
 					<ul>
 						<li>
-							<img src="images/home-desktop.gif" alt="Dove global website" />
+							<img src="images/home-desktop.jpg" alt="Dove global website home page design" />
 						</li>
 						<li>
-							<img src="images/product-detail-page-tablet.jpg" alt="Dove global website" />
+							<img src="images/product-detail-page-tablet.jpg" alt="Dove product detail page design" />
 						</li>
 						<li>
-							<img src="images/product-detail-page-mobile.jpg" alt="Dove global website" />
+							<img src="images/product-detail-page-mobile.jpg" alt="Dove product detail page design" />
 						</li>
 						<li>
-							<img src="images/product-landing-page-tablet.jpg" alt="Dove global website" />
+							<img src="images/product-landing-page-tablet.jpg" alt="Dove product listing page design" />
 						</li>
 						<li>
-							<img src="images/hub-desktop.jpg" alt="Dove global website" />
+							<img src="images/hub-desktop.jpg" alt="Dove stories hub page design" />
 						</li>
 						<li>
-							<img src="images/article-mobile.jpg" alt="Dove global website" />
+							<img src="images/article-mobile.jpg" alt="Dove article page design" />
 						</li>
 						<li>
-							<img src="images/work-life-1.jpg" alt="Dove global website" />
+							<img src="images/work-life-1.jpg" alt="Dove brand DNA to digital mood-boards" />
 						</li>
 						<li>
-							<img src="images/work-life-2.jpg" alt="Dove global website" />
+							<img src="images/work-life-2.jpg" alt="Dove product information architecture" />
 						</li>
 						<li>
-							<img src="images/work-life-3.jpg" alt="Dove global website" />
+							<img src="images/work-life-3.jpg" alt="Dove client review" />
 						</li>
 					</ul>
 
