@@ -156,11 +156,21 @@ $post_info = array
 				
 				"dove" => array
 					(
-					'id' => 210,
+					'id' => 211,
 					'post_name' => "dove",
 					'post_url' => "work/dove",
 					'description' => "Dove global website.",
 					'title' => "Dove",
+					'parent_menu_id' => 2
+					),
+				
+				"microsoft_calendar" => array
+					(
+					'id' => 212,
+					'post_name' => "microsoft-calendar",
+					'post_url' => "work/microsoft-calendar",
+					'description' => "Calendar promoting Microsoft Office 365 and the new Nokia Windows devices.",
+					'title' => "Microsoft Office 365 calendar",
 					'parent_menu_id' => 2
 					),
 

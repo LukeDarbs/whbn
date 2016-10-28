@@ -14,7 +14,7 @@ include("posts.php");
 
 	$this_post = $post_info['cashback_plus'];
 
-	$prev_post = $post_info['reward_website'];
+	$prev_post = $post_info['microsoft_calendar'];
 	$next_post = $post_info['brit_row_website'];
 
 ?>
