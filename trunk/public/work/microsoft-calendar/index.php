@@ -42,9 +42,9 @@ include("posts.php");
 						<li>
 							<img src="images/selected-set-2.jpg" alt="Microsoft Office 365 facts calendar, selected dates" />
 						</li>
-						<li>
+						<!-- <li>
 							<img src="images/selected-set-3.jpg" alt="Microsoft Office 365 facts calendar, selected dates" />
-						</li>
+						</li> -->
 						<li>
 							<img src="images/calendar-in-situ.jpg" alt="Microsoft Office 365 facts calendar, in-situ" />
 						</li>
