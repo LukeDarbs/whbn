@@ -15,7 +15,7 @@ include("posts.php");
 	$this_post = $post_info['reward_brand'];
 
 	$prev_post = $post_info['penny_for_london'];
-	$next_post = $post_info['reward_website'];
+	$next_post = $post_info['microsoft_calendar'];
 
 ?>
 
@@ -34,14 +34,20 @@ include("posts.php");
 							<img src="images/reward-logo.gif" alt="Reward" />
 						</li>
 						<li>
-							<img src="images/desktop.jpg" alt="Reward desktop background" />
+							<img src="images/website-desktop.jpg" alt="Reward website" />
+						</li>
+						<li>
+							<div class="description">
+								<h3><a href="http://www.rewardinsight.com/" target="_blank" title="Open the Reward website in a new tab" >
+								Visit the Reward website</a></h3>
+							</div>
+						</li>
+						<li>
+							<img src="images/website-responsive.jpg" alt="Reward website" />
 						</li>
 						<li>
 							<img src="images/stationery-1.jpg" alt="Reward stationery" />
 						</li>
-						<!-- <li>
-							<img src="images/stationery-2.jpg" alt="Reward stationery" />
-						</li> -->
 						<li>
 							<img src="images/business-cards.jpg" alt="Reward business cards" />
 						</li>
@@ -67,10 +73,10 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> Reward’s focus changed a lot during my time there. 
-						Our comprehensive rebrand transformed the way the company were seen by clients and staff, 
-						empowering the growing team to send the Reward message clearly and consistently. 
-						In the words of our COO: “Our presentations look shit-hot now.”</p>
+					<p> Reward came-of-age during my time there. Our huge rebrand and new website was a big, 
+					bold statement of intent and completely changed the way the startup was seen by clients and staff. 
+					The comprehensive brand manual empowered the growing team to send the Reward message clearly and 
+					consistently. In the words of our COO: “Our presentations look shit-hot now.”</p>
 					<p> Designed in collaboration with the excellent <a href="http://www.joncgregory.co.uk/" target="_blank" title="Jon Gregory, Graphic Designer" >Jon&nbsp;Gregory</a>.</p>
 				</div>
 
