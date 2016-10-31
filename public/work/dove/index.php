@@ -31,7 +31,13 @@ include("posts.php");
 
 					<ul>
 						<li>
-							<img src="images/home-desktop.jpg" alt="Dove global website home page design" />
+							<!-- <img src="images/home-desktop.jpg" alt="Dove global website home page design" /> -->
+							<video poster="images/home-desktop.jpg" width="100% !important" height="auto 100% !important" autoplay loop>
+								<source src="video/dove-home-page-desktop.mp4" type="video/mp4" />
+								<source src="video/dove-home-page-desktop.webm" type="video/webm" />
+								<source src="video/dove-home-page-desktop.ogv" type="video/ogg" />
+								<p>Dove global website home page design</p>
+							</video>
 						</li>
 						<li>
 							<img src="images/product-detail-page-tablet.jpg" alt="Dove product detail page design" />
