@@ -38,8 +38,8 @@ include("posts.php");
 						</li>
 						<li>
 							<div class="description">
-								<h3><a href="http://www.rewardinsight.com/" target="_blank" title="Open the Reward website in a new tab" >
-								Visit the Reward website</a></h3>
+								<p><a href="http://www.rewardinsight.com/" target="_blank" title="Open the Reward website in a new tab" >
+								Visit the Reward website</a></p>
 							</div>
 						</li>
 						<li>
