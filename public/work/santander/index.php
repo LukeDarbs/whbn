@@ -15,7 +15,7 @@ include("posts.php");
 	$this_post = $post_info['santander'];
 
 	$prev_post = $post_info['mountain_tracks_brochures'];
-	$next_post = $post_info['brit_row_training'];
+	$next_post = $post_info['gzba_leaflet'];
 
 ?>
 

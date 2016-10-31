@@ -106,16 +106,6 @@ $post_info = array
 					'parent_menu_id' => 2
 					),
 				
-				"brit_row_training" => array
-					(
-					'id' => 206,
-					'post_name' => "brit-row-training",
-					'post_url' => "work/brit-row-training",
-					'description' => "Brand and responsive website for the new UK’s first vocational audio specialist school.",
-					'title' => "BRP Training website",
-					'parent_menu_id' => 2
-					),
-				
 				"gzba_leaflet" => array
 					(
 					'id' => 207,
