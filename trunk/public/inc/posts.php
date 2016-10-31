@@ -50,19 +50,21 @@ $post_info = array
 					'post_name' => "reward-brand",
 					'post_url' => "work/reward-brand",
 					'description' => "A comprehensive rebrand to completely change the way Reward were seen by clients and staff.",
-					'title' => "Reward brand",
+					'title' => "Reward brand and website",
 					'parent_menu_id' => 2
 					),
 				
-				"reward_website" => array
-					(
-					'id' => 201,
-					'post_name' => "reward-website",
-					'post_url' => "work/reward-website",
-					'description' => "A big, bold statement of intent. The creative team helped to define how Reward talk about their powerful but complex products.",
-					'title' => "Reward website",
-					'parent_menu_id' => 2
-					),
+				// ••• Reward website now incorporated into Reward brand •••
+
+				// "reward_website" => array
+				// 	(
+				// 	'id' => 201,
+				// 	'post_name' => "reward-website",
+				// 	'post_url' => "work/reward-website",
+				// 	'description' => "A big, bold statement of intent. The creative team helped to define how Reward talk about their powerful but complex products.",
+				// 	'title' => "Reward website",
+				// 	'parent_menu_id' => 2
+				// 	),
 				
 				"cashback_plus" => array
 					(
