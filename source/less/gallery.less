@@ -12,6 +12,9 @@
 
 	.gallery-width {
 		.make-xs-column(12);
+		@media (min-width: @screen-sm-min) {
+			padding-bottom: 40px;
+		}
 	}
 
 	.make-row();
@@ -23,15 +26,17 @@
 		list-style: none;
 		max-width: 1000px;
 		padding: 0 0 10px;
-		@media (min-width: @screen-sm-min) {
-			padding-bottom: 40px;
-		}
 
 		li {
 			margin: 20px 0 ;
 			max-width: 1000px;
 			display: flex;
 			position: relative;
+		}
+
+		li.collapse {
+			margin: -40px 0 ;
+			z-index: 100;
 		}
 
 		img {
@@ -48,27 +53,50 @@
 }
 
 //
-// Site launch button
+// External link banner
 // ---------------------------------
 
-.launch-site {
-	position: absolute;
-	top:0;
-	left: 0;
-	// width: 100%;
-	// height: 100%;
-	z-index: 2000;
-	// background:  transparent url('img/launch-site.png') no-repeat center center;
-	.opacity(.3);
+.link-banner {
+	
+	margin: 0 auto;
 
-	&:hover {
-		.opacity(.8);
+		a {
+			position: relative;
+			padding: 10px;
+			display: block;
+			font-size: 1.5em;
+			color: @text-color;
+
+			&:hover {
+				color: @link-hover-color;
+				text-decoration: none;
+			}
 	}
-
-	p {
-		.sr-only();
+		a::after {
+			position: absolute;
+			top: 100%;
+			left: 0;
+			width: 100%;
+			height: 3px;
+			background: @link-hover-color;
+			content: '';
+			opacity: 0;
+			-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+			-moz-transition: opacity 0.3s, -moz-transform 0.3s;
+			transition: opacity 0.3s, transform 0.3s;
+			-webkit-transform: translateY(10px);
+			-moz-transform: translateY(10px);
+			transform: translateY(10px);
+	}
+		a:hover::after,
+		a:focus::after {
+			opacity: 1;
+			-webkit-transform: translateY(2px);
+			-moz-transform: translateY(2px);
+			transform: translateY(2px);
 	}
 }
+
 
 //
 // Next / Previous project navigation

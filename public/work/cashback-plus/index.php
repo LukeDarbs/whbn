@@ -35,10 +35,12 @@ include("posts.php");
 								<li><img src="images/desktop-natwest.jpg" alt="NatWest Cashback Plus – Desktop" /></li>
 								<li><img src="images/desktop-rbs.jpg" alt="RBS Cashback Plus – Desktop" /></li>
 							</ul>
-							<a href="https://www.cashbackplus.natwest.com/" target="_blank" title="Open the NatWest Cashback Plus website in a new tab" class="launch-site">
-								<p>Launch site</p>
-								<img src="../../css/img/launch-site.png" />
-							</a>
+						</li>
+						<li class="collapse">
+							<div class="link-banner">
+								<a href="https://www.cashbackplus.natwest.com/" target="_blank" title="Open the NatWest Cashback Plus website in a new tab"  >
+								Visit the Cashback Plus website</a>
+							</div>
 						</li>
 						<li>
 							<img src="images/mobile.jpg" alt="NatWest and RBS Cashback Plus – Mobile" />
