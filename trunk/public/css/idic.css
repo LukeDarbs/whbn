@@ -1158,7 +1158,8 @@ abbr[title] {
   font-size: 1.5em;
   color: #999;
 }
-.link-banner a:hover {
+.link-banner a:hover,
+.link-banner a:focus {
   color: #2a6496;
   text-decoration: none;
 }
@@ -1178,8 +1179,7 @@ abbr[title] {
   -moz-transform: translateY(10px);
   transform: translateY(10px);
 }
-.link-banner a:hover::after,
-.link-banner a:focus::after {
+.link-banner a:hover::after {
   opacity: 1;
   -webkit-transform: translateY(2px);
   -moz-transform: translateY(2px);
