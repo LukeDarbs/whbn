@@ -1130,8 +1130,12 @@ abbr[title] {
   position: relative;
 }
 .gallery ul li.collapse {
-  margin: -40px 0;
   z-index: 100;
+}
+@media (min-width: 768px) {
+  .gallery ul li.collapse {
+    margin: -40px 0;
+  }
 }
 .gallery ul img {
   margin: auto;

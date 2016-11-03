@@ -35,7 +35,9 @@
 		}
 
 		li.collapse {
-			margin: -40px 0 ;
+			@media (min-width: @screen-sm-min) {
+				margin: -40px 0 ; 
+			}
 			z-index: 100;
 		}
 
