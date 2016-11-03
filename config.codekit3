@@ -15,10 +15,10 @@
 		"oAP": "\/public\/404\/index.php",
 		"oF": 0
 		},
-	"\/public\/about\/cv\/Luke Darbyshire CV 2016-11.pdf": {
+	"\/public\/about\/cv\/luke-darbyshire-cv-2016-11.pdf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/public\/about\/cv\/Luke Darbyshire CV 2016-11.pdf",
+		"oAP": "\/public\/about\/cv\/luke-darbyshire-cv-2016-11.pdf",
 		"oF": 0
 		},
 	"\/public\/apple-touch-icon-precomposed.png": {
@@ -1318,6 +1318,46 @@
 		"oA": 0,
 		"oAP": "\/public\/work\/gzba-leaflet\/index.php",
 		"oF": 0
+		},
+	"\/public\/work\/microsoft-calendar\/images\/calendar-face-on.jpg": {
+		"ft": 16384,
+		"iS": 71183,
+		"oA": 0,
+		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-face-on.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/work\/microsoft-calendar\/images\/calendar-in-situ.jpg": {
+		"ft": 16384,
+		"iS": 100704,
+		"oA": 0,
+		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-in-situ.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/work\/microsoft-calendar\/images\/calendar-side-on.jpg": {
+		"ft": 16384,
+		"iS": 75257,
+		"oA": 0,
+		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-side-on.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/work\/microsoft-calendar\/images\/selected-set-1.jpg": {
+		"ft": 16384,
+		"iS": 89957,
+		"oA": 0,
+		"oAP": "\/public\/work\/microsoft-calendar\/images\/selected-set-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/work\/microsoft-calendar\/images\/selected-set-2.jpg": {
+		"ft": 16384,
+		"iS": 145596,
+		"oA": 0,
+		"oAP": "\/public\/work\/microsoft-calendar\/images\/selected-set-2.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/public\/work\/microsoft-calendar\/index.php": {
 		"ft": 8192,
