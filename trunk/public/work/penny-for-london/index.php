@@ -14,7 +14,7 @@ include("posts.php");
 
 	$this_post = $post_info['penny_for_london'];
 
-	$prev_post = $post_info['dove'];
+	$prev_post = $post_info['baby_dove'];
 	$next_post = $post_info['reward_brand'];
 
 ?>

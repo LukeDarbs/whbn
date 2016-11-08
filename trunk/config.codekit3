@@ -1101,83 +1101,43 @@
 		"oAP": "\/public\/WHBN local\/README.txt",
 		"oF": 0
 		},
-	"\/public\/work\/baby-dove\/images\/article-mobile.jpg": {
+	"\/public\/work\/baby-dove\/images\/article-page.jpg": {
 		"ft": 16384,
-		"iS": 117786,
+		"iS": 86320,
 		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/article-mobile.jpg",
+		"oAP": "\/public\/work\/baby-dove\/images\/article-page.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/public\/work\/baby-dove\/images\/home-desktop.gif": {
-		"ft": 4194304,
-		"iS": 5452723,
+	"\/public\/work\/baby-dove\/images\/client-facing.jpg": {
+		"ft": 16384,
+		"iS": 141790,
 		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/home-desktop.gif",
+		"oAP": "\/public\/work\/baby-dove\/images\/client-facing.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/public\/work\/baby-dove\/images\/home-desktop.jpg": {
+	"\/public\/work\/baby-dove\/images\/home-page.jpg": {
 		"ft": 16384,
-		"iS": 80324,
+		"iS": 75037,
 		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/home-desktop.jpg",
+		"oAP": "\/public\/work\/baby-dove\/images\/home-page.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/public\/work\/baby-dove\/images\/hub-desktop.jpg": {
+	"\/public\/work\/baby-dove\/images\/product-detail-page.jpg": {
 		"ft": 16384,
-		"iS": 97064,
+		"iS": 44903,
 		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/hub-desktop.jpg",
+		"oAP": "\/public\/work\/baby-dove\/images\/product-detail-page.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/public\/work\/baby-dove\/images\/product-detail-page-mobile.jpg": {
+	"\/public\/work\/baby-dove\/images\/product-landing-page.jpg": {
 		"ft": 16384,
-		"iS": 68730,
+		"iS": 75193,
 		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/product-detail-page-mobile.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/public\/work\/baby-dove\/images\/product-detail-page-tablet.jpg": {
-		"ft": 16384,
-		"iS": 43173,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/product-detail-page-tablet.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/public\/work\/baby-dove\/images\/product-landing-page-tablet.jpg": {
-		"ft": 16384,
-		"iS": 75897,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/product-landing-page-tablet.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/public\/work\/baby-dove\/images\/work-life-1.jpg": {
-		"ft": 16384,
-		"iS": 118198,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/work-life-1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/public\/work\/baby-dove\/images\/work-life-2.jpg": {
-		"ft": 16384,
-		"iS": 102460,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/work-life-2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/public\/work\/baby-dove\/images\/work-life-3.jpg": {
-		"ft": 16384,
-		"iS": 137304,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/work-life-3.jpg",
+		"oAP": "\/public\/work\/baby-dove\/images\/product-landing-page.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1185,24 +1145,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/baby-dove\/index.php",
-		"oF": 0
-		},
-	"\/public\/work\/baby-dove\/video\/dove-home-page-desktop.mp4": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/baby-dove\/video\/dove-home-page-desktop.mp4",
-		"oF": 0
-		},
-	"\/public\/work\/baby-dove\/video\/dove-home-page-desktop.ogv": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/baby-dove\/video\/dove-home-page-desktop.ogv",
-		"oF": 0
-		},
-	"\/public\/work\/baby-dove\/video\/dove-home-page-desktop.webm": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/baby-dove\/video\/dove-home-page-desktop.webm",
 		"oF": 0
 		},
 	"\/public\/work\/brit-row-website\/images\/desktop-1.jpg": {

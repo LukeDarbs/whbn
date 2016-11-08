@@ -15,7 +15,7 @@ include("posts.php");
 	$this_post = $post_info['dove'];
 
 	$prev_post = $post_info['nba_payback'];
-	$next_post = $post_info['penny_for_london'];
+	$next_post = $post_info['baby_dove'];
 
 ?>
 
