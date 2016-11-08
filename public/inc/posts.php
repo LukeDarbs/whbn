@@ -156,9 +156,19 @@ $post_info = array
 					'parent_menu_id' => 2
 					),
 				
-				"microsoft_calendar" => array
+				"baby_dove" => array
 					(
 					'id' => 212,
+					'post_name' => "baby-dove",
+					'post_url' => "work/baby-dove",
+					'description' => "Baby Dove sub-brand as part of the Dove global website",
+					'title' => "Baby Dove",
+					'parent_menu_id' => 2
+					),
+				
+				"microsoft_calendar" => array
+					(
+					'id' => 213,
 					'post_name' => "microsoft-calendar",
 					'post_url' => "work/microsoft-calendar",
 					'description' => "Calendar promoting Microsoft Office 365 and the new Nokia Windows devices.",
