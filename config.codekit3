@@ -897,42 +897,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/public\/js\/min\/ie-emulation-modes-warning-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/public\/js\/min\/min\/ie-emulation-modes-warning-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/public\/js\/min\/ie10-viewport-bug-workaround-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/public\/js\/min\/min\/ie10-viewport-bug-workaround-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/public\/js\/min\/ie8-responsive-file-warning-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/public\/js\/min\/min\/ie8-responsive-file-warning-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/public\/js\/min\/jquery.smoothState-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/public\/js\/min\/min\/jquery.smoothState-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/public\/js\/min\/responsive-slides-min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -1340,12 +1304,6 @@
 		"oAP": "\/public\/work\/dove\/images\/product-landing-page-tablet.jpg",
 		"oF": 0,
 		"opt": 1
-		},
-	"\/public\/work\/dove\/images\/svn-qYsSXU": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/dove\/images\/svn-qYsSXU",
-		"oF": 0
 		},
 	"\/public\/work\/dove\/images\/work-life-1.jpg": {
 		"ft": 16384,
