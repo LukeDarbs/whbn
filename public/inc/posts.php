@@ -180,7 +180,7 @@ $post_info = array
 					(
 					'id' => 214,
 					'post_name' => "nationwide",
-					'post_url' => "work/nationwide",
+					'post_url' => "sneak-peek/nationwide",
 					'description' => "Concepts for various savings tools for Nationwide customers",
 					'title' => "Nationwide Savings Tools",
 					'parent_menu_id' => 2
