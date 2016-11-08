@@ -417,7 +417,7 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/abp\/idic-abp-website-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/idic\/rsrc\/portfolio\/bedlambar\/idic-bedlambar-flyer-01.jpg": {
 		"ft": 16384,
@@ -433,7 +433,7 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/conjungo\/idic-conjungo-identity-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/idic\/rsrc\/portfolio\/conjungo\/idic-conjungo-identity-02.jpg": {
 		"ft": 16384,
@@ -505,7 +505,7 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/msi-c&w\/idic-msi-c&w-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/idic\/rsrc\/portfolio\/msi-c&w\/idic-msi-c&w-03.jpg": {
 		"ft": 16384,
@@ -897,6 +897,42 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/public\/js\/min\/ie-emulation-modes-warning-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/min\/min\/ie-emulation-modes-warning-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/public\/js\/min\/ie10-viewport-bug-workaround-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/min\/min\/ie10-viewport-bug-workaround-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/public\/js\/min\/ie8-responsive-file-warning-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/min\/min\/ie8-responsive-file-warning-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/public\/js\/min\/jquery.smoothState-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/min\/min\/jquery.smoothState-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/public\/js\/min\/responsive-slides-min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -1255,7 +1291,7 @@
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/article-mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/work\/dove\/images\/home-desktop.gif": {
 		"ft": 4194304,
@@ -1271,7 +1307,7 @@
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/home-desktop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/work\/dove\/images\/hub-desktop.jpg": {
 		"ft": 16384,
@@ -1287,7 +1323,7 @@
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/product-detail-page-mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/work\/dove\/images\/product-detail-page-tablet.jpg": {
 		"ft": 16384,
@@ -1295,7 +1331,7 @@
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/product-detail-page-tablet.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/work\/dove\/images\/product-landing-page-tablet.jpg": {
 		"ft": 16384,
@@ -1303,7 +1339,13 @@
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/product-landing-page-tablet.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
+		},
+	"\/public\/work\/dove\/images\/svn-qYsSXU": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/dove\/images\/svn-qYsSXU",
+		"oF": 0
 		},
 	"\/public\/work\/dove\/images\/work-life-1.jpg": {
 		"ft": 16384,
@@ -1311,7 +1353,7 @@
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/work-life-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/work\/dove\/images\/work-life-2.jpg": {
 		"ft": 16384,
@@ -1489,7 +1531,7 @@
 		"oA": 0,
 		"oAP": "\/public\/work\/msi-c-and-w\/images\/front.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/public\/work\/msi-c-and-w\/images\/inside.jpg": {
 		"ft": 16384,
@@ -1503,24 +1545,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/msi-c-and-w\/index.php",
-		"oF": 0
-		},
-	"\/public\/work\/nationwide\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/nationwide\/index.php",
-		"oF": 0
-		},
-	"\/public\/work\/nationwide\/video\/nationwide-goals-dashboard.mp4": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/nationwide\/video\/nationwide-goals-dashboard.mp4",
-		"oF": 0
-		},
-	"\/public\/work\/nationwide\/video\/nationwide-visual-planner.mp4": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/nationwide\/video\/nationwide-visual-planner.mp4",
 		"oF": 0
 		},
 	"\/public\/work\/nba-payback\/images\/logo.gif": {
