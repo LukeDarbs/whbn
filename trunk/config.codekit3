@@ -927,6 +927,24 @@
 		"oAP": "\/public\/sneak-peek\/index.php",
 		"oF": 0
 		},
+	"\/public\/sneak-peek\/nationwide\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/sneak-peek\/nationwide\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/nationwide\/video\/nationwide-goals-dashboard.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/sneak-peek\/nationwide\/video\/nationwide-goals-dashboard.mp4",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/nationwide\/video\/nationwide-visual-planner.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/sneak-peek\/nationwide\/video\/nationwide-visual-planner.mp4",
+		"oF": 0
+		},
 	"\/public\/variable-test\/index.php": {
 		"ft": 8192,
 		"oA": 0,
