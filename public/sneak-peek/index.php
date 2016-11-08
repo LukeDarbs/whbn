@@ -1,6 +1,6 @@
 <?php
 
-header("Location: ../work/penny-for-london/");
+header("Location: ../work/");
 die();
 
 ?>
