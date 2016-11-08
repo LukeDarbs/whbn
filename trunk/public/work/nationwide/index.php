@@ -12,10 +12,10 @@ include("posts.php");
 	
 	// Post variables 
 
-	$this_post = $post_info['santander'];
+	$this_post = $post_info['nationwide'];
 
-	$prev_post = $post_info['mountain_tracks_brochures'];
-	$next_post = $post_info['gzba_leaflet'];
+	$prev_post = $post_info['nationwide'];
+	$next_post = $post_info['nationwide'];
 
 ?>
 
@@ -30,17 +30,21 @@ include("posts.php");
 				<div class="gallery-width">
 
 					<ul>
-						<li>
-							<img src="images/landing.jpg" alt="<?php echo $this_post['title']; ?> – App landing" />
+						<li style="height: auto; margin-bottom: 100px;">
+							<video poster="" width="100% !important" height="100%" controls="controls" >
+								<source src="video/nationwide-goals-dashboard.mp4" type="video/mp4" />
+								<!-- <source src="video/dove-home-page-desktop.webm" type="video/webm" />
+								<source src="video/dove-home-page-desktop.ogv" type="video/ogg" /> -->
+								<p>Nationwide savings tools - Goals dashboard</p>
+							</video>
 						</li>
-						<li>
-							<img src="images/map-and-account.jpg" alt="<?php echo $this_post['title']; ?> – App map and account overview" />
-						</li>
-						<li>
-							<img src="images/offer.jpg" alt="<?php echo $this_post['title']; ?> – App offer detail" />
-						</li>
-						<li>
-							<img src="images/shopping-bag.jpg" alt="<?php echo $this_post['title']; ?> – Brick render shopping bag" />
+						<li style="height: auto; margin-bottom: 100px;">
+							<video poster="" width="100% !important" height="100%" controls="controls" >
+								<source src="video/nationwide-visual-planner.mp4" type="video/mp4" />
+								<!-- <source src="video/dove-home-page-desktop.webm" type="video/webm" />
+								<source src="video/dove-home-page-desktop.ogv" type="video/ogg" /> -->
+								<p>Nationwide savings tools - Visual planner</p>
+							</video>
 						</li>
 					</ul>
 
@@ -52,8 +56,8 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> We designed campaigns, websites and more during a long relationship with Santander. All our projects needed 
-						a lot of sketching in the early stages to make sure concepts could work within the bank’s in-depth guidelines.</p>
+					<p> We created these concepts for savings tools as part of an in-depth proposal for the building society. 
+					Animation brought the interfaces to life and helped our clients tell the story to their colleagues. </p>
 				</div>
 
 			</div>
