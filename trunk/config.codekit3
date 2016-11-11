@@ -1383,6 +1383,12 @@
 		"oAP": "\/public\/work\/gzba-leaflet\/index.php",
 		"oF": 0
 		},
+	"\/public\/work\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/index.php",
+		"oF": 0
+		},
 	"\/public\/work\/microsoft-calendar\/images\/calendar-face-on.jpg": {
 		"ft": 16384,
 		"iS": 71183,
