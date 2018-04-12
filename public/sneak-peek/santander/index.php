@@ -8,14 +8,14 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['santander'];
 
-	$prev_post = $post_info['mountain_tracks_brochures'];
-	$next_post = $post_info['gzba_leaflet'];
+	$prev_post = $post_info['santander'];
+	$next_post = $post_info['santander'];
 
 ?>
 
@@ -52,7 +52,7 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> We designed campaigns, websites and more during a long relationship with Santander. All our projects needed 
+					<p> We designed campaigns, websites and more during a long relationship with Santander. All our projects needed
 						a lot of sketching in the early stages to make sure concepts could work within the bank’s in-depth guidelines.</p>
 				</div>
 
@@ -65,5 +65,3 @@ include("posts.php");
 
 <?php include("footer.php"); ?>
 <?php include("end.php"); ?>
-
-

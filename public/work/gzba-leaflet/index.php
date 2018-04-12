@@ -8,13 +8,13 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['gzba_leaflet'];
 
-	$prev_post = $post_info['santander'];
+	$prev_post = $post_info['nationwide'];
 	$next_post = $post_info['msi_candw'];
 
 ?>
@@ -49,7 +49,7 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> These promotional pieces were great fun to work on. Lots of paper-prototyping helped us look 
+					<p> These promotional pieces were great fun to work on. Lots of paper-prototyping helped us look
 						beyond the brief for a simple flyer and instead deliver something interesting and memorable. </p>
 				</div>
 
@@ -62,5 +62,3 @@ include("posts.php");
 
 <?php include("footer.php"); ?>
 <?php include("end.php"); ?>
-
-

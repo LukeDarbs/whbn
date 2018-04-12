@@ -8,14 +8,14 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['mountain_tracks_brochures'];
 
 	$prev_post = $post_info['brit_row_website'];
-	$next_post = $post_info['santander'];
+	$next_post = $post_info['nationwide'];
 
 ?>
 
@@ -55,8 +55,8 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> For me, a mountain adventure sells itself but nice big photos of the breathtaking Alps can certainly help. 
-						This is a job I enjoy every year. A cherished  opportunity to explore type and layout with the sort of 
+					<p> For me, a mountain adventure sells itself but nice big photos of the breathtaking Alps can certainly help.
+						This is a job I enjoy every year. A cherished  opportunity to explore type and layout with the sort of
 						freedom that you only tend to get in editorial design. Plus, I love mountains. </p>
 				</div>
 
@@ -69,5 +69,3 @@ include("posts.php");
 
 <?php include("footer.php"); ?>
 <?php include("end.php"); ?>
-
-

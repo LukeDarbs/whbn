@@ -1,13 +1,13 @@
 <?php
 
-// Sitewide values associated with any given post. 
+// Sitewide values associated with any given post.
 // ================================================
 
 $post_info = array
 
 	(
-	
-	
+
+
 	"home" => array
 		(
 		'id' => 0,
@@ -43,7 +43,7 @@ $post_info = array
 			'parent' => true,
 			'parent_menu_id' => 0
 			),
-				
+
 				"reward_brand" => array
 					(
 					'id' => 200,
@@ -53,7 +53,7 @@ $post_info = array
 					'title' => "Reward brand and website",
 					'parent_menu_id' => 2
 					),
-				
+
 				// ••• Reward website now incorporated into Reward brand •••
 
 				// "reward_website" => array
@@ -65,7 +65,7 @@ $post_info = array
 				// 	'title' => "Reward website",
 				// 	'parent_menu_id' => 2
 				// 	),
-				
+
 				"cashback_plus" => array
 					(
 					'id' => 202,
@@ -75,7 +75,7 @@ $post_info = array
 					'title' => "NatWest and RBS Cashback&nbsp;Plus",
 					'parent_menu_id' => 2
 					),
-				
+
 				"brit_row_website" => array
 					(
 					'id' => 203,
@@ -85,7 +85,7 @@ $post_info = array
 					'title' => "Britannia Row Productions website",
 					'parent_menu_id' => 2
 					),
-				
+
 				"mountain_tracks_brochures" => array
 					(
 					'id' => 204,
@@ -95,17 +95,17 @@ $post_info = array
 					'title' => "Mountain Tracks brochures",
 					'parent_menu_id' => 2
 					),
-				
-				"santander" => array
+
+				"nationwide" => array
 					(
-					'id' => 205,
-					'post_name' => "santander",
-					'post_url' => "work/santander",
-					'description' => "Campaigns, websites and more for Santander.",
-					'title' => "Santander",
+					'id' => 214,
+					'post_name' => "nationwide",
+					'post_url' => "work/nationwide",
+					'description' => "Concepts for various savings tools for Nationwide customers",
+					'title' => "Nationwide Savings Tools",
 					'parent_menu_id' => 2
 					),
-				
+
 				"gzba_leaflet" => array
 					(
 					'id' => 207,
@@ -115,7 +115,7 @@ $post_info = array
 					'title' => "Grimentz-Zinal Backcountry Adventures",
 					'parent_menu_id' => 2
 					),
-				
+
 				"msi_candw" => array
 					(
 					'id' => 208,
@@ -125,7 +125,7 @@ $post_info = array
 					'title' => "Marie Stopes International - Cries &amp; Whispers",
 					'parent_menu_id' => 2
 					),
-				
+
 				"nba_payback" => array
 					(
 					'id' => 209,
@@ -135,7 +135,7 @@ $post_info = array
 					'title' => "NBA Payback",
 					'parent_menu_id' => 2
 					),
-				
+
 				"penny_for_london" => array
 					(
 					'id' => 210,
@@ -145,7 +145,7 @@ $post_info = array
 					'title' => "Penny for London",
 					'parent_menu_id' => 2
 					),
-				
+
 				"dove" => array
 					(
 					'id' => 211,
@@ -155,7 +155,7 @@ $post_info = array
 					'title' => "Dove",
 					'parent_menu_id' => 2
 					),
-				
+
 				"baby_dove" => array
 					(
 					'id' => 212,
@@ -165,7 +165,7 @@ $post_info = array
 					'title' => "Baby Dove",
 					'parent_menu_id' => 2
 					),
-				
+
 				"microsoft_calendar" => array
 					(
 					'id' => 213,
@@ -175,14 +175,14 @@ $post_info = array
 					'title' => "Microsoft Office 365 calendar",
 					'parent_menu_id' => 2
 					),
-				
-				"nationwide" => array
+
+				"santander" => array
 					(
-					'id' => 214,
-					'post_name' => "nationwide",
-					'post_url' => "sneak-peek/nationwide",
-					'description' => "Concepts for various savings tools for Nationwide customers",
-					'title' => "Nationwide Savings Tools",
+					'id' => 205,
+					'post_name' => "santander",
+					'post_url' => "sneak-peek/santander",
+					'description' => "Campaigns, websites and more for Santander.",
+					'title' => "Santander",
 					'parent_menu_id' => 2
 					),
 
