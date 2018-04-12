@@ -2,6 +2,12 @@
 // Typography
 // --------------------------------------------------
 
+@media  (min-width: (@screen-sm-min - 250px)) {
+	body {
+		font-size: @font-size-large;
+		line-height: 1.6;
+	}
+}
 
 // Headings
 // -------------------------
@@ -15,15 +21,8 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1 {
-	font-size: @font-size-h4;
-}
-
-@media  (min-width: (@screen-sm-min - 250px)) {
-
-	h1 {
-		font-size: @font-size-h3;
-	}
-
+	font-size: @font-size-h3;
+	margin: .5em 0;
 }
 
 @media  (min-width: @screen-md-min) {
