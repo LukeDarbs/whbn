@@ -7,15 +7,17 @@
 		"uuidString": "9B25D0A5-DD12-4C8D-9C54-D57E85FEEF7F"
 		}
 	],
-"creatorBuild": "25444",
+"creatorBuild": "26680",
 "files": {
 	"\/public\/404\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/404\/index.php",
 		"oF": 0
 		},
 	"\/public\/about\/cv\/luke-darbyshire-cv-2016-11.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/about\/cv\/luke-darbyshire-cv-2016-11.pdf",
@@ -27,7 +29,10 @@
 		"oA": 0,
 		"oAP": "\/public\/apple-touch-icon-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/css\/idic.css": {
 		"aP": 0,
@@ -38,6 +43,13 @@
 		"oAP": "\/public\/css\/idic-ck.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/public\/css\/idic.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/idic.css.map",
+		"oF": 0
 		},
 	"\/public\/css\/ie8.css": {
 		"aP": 0,
@@ -55,7 +67,10 @@
 		"oA": 0,
 		"oAP": "\/public\/css\/img\/arrow-left-black.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/css\/img\/arrow-left.png": {
 		"ft": 32768,
@@ -63,7 +78,10 @@
 		"oA": 0,
 		"oAP": "\/public\/css\/img\/arrow-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/css\/img\/arrow-right-black.png": {
 		"ft": 32768,
@@ -71,7 +89,10 @@
 		"oA": 0,
 		"oAP": "\/public\/css\/img\/arrow-right-black.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/css\/img\/arrow-right.png": {
 		"ft": 32768,
@@ -79,15 +100,21 @@
 		"oA": 0,
 		"oAP": "\/public\/css\/img\/arrow-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/css\/img\/background-1000.jpg": {
 		"ft": 16384,
 		"iS": 20175,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/css\/img\/background-1000.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/css\/img\/background-texture-light.gif": {
 		"ft": 4194304,
@@ -111,15 +138,41 @@
 		"oA": 0,
 		"oAP": "\/public\/css\/img\/launch-site.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/favicon.ico",
 		"oF": 0
 		},
+	"\/public\/fb-umb\/facebook-video-header-background.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/fb-umb\/facebook-video-header-background.mp4",
+		"oF": 0
+		},
+	"\/public\/fb-umb\/facebook-video-header-background_2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/fb-umb\/facebook-video-header-background_2.mp4",
+		"oF": 0
+		},
+	"\/public\/fb-umb\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/fb-umb\/index.html",
+		"oF": 0
+		},
 	"\/public\/fonts\/aspira-demi.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-demi.eot",
@@ -136,18 +189,21 @@
 		"prP": 0
 		},
 	"\/public\/fonts\/aspira-demi.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-demi.ttf",
 		"oF": 0
 		},
 	"\/public\/fonts\/aspira-demi.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-demi.woff",
 		"oF": 0
 		},
 	"\/public\/fonts\/aspira-heavy.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-heavy.eot",
@@ -164,18 +220,21 @@
 		"prP": 0
 		},
 	"\/public\/fonts\/aspira-heavy.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-heavy.ttf",
 		"oF": 0
 		},
 	"\/public\/fonts\/aspira-heavy.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-heavy.woff",
 		"oF": 0
 		},
 	"\/public\/fonts\/aspira-light.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-light.eot",
@@ -192,18 +251,21 @@
 		"prP": 0
 		},
 	"\/public\/fonts\/aspira-light.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-light.ttf",
 		"oF": 0
 		},
 	"\/public\/fonts\/aspira-light.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira-light.woff",
 		"oF": 0
 		},
 	"\/public\/fonts\/aspira.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira.eot",
@@ -220,24 +282,28 @@
 		"prP": 0
 		},
 	"\/public\/fonts\/aspira.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira.ttf",
 		"oF": 0
 		},
 	"\/public\/fonts\/aspira.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira.woff",
 		"oF": 0
 		},
 	"\/public\/htaccess.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/htaccess.txt",
 		"oF": 0
 		},
 	"\/public\/idic\/contact\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/idic\/contact\/index.html",
@@ -274,6 +340,7 @@
 		"oS": 0
 		},
 	"\/public\/idic\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/idic\/favicon.ico",
@@ -285,9 +352,13 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/favicon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/idic\/index.html",
@@ -295,6 +366,7 @@
 		},
 	"\/public\/idic\/js\/mootools.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/idic\/js\/min\/mootools-min.js",
@@ -304,6 +376,7 @@
 		},
 	"\/public\/idic\/js\/slimbox.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/idic\/js\/min\/slimbox-min.js",
@@ -312,6 +385,7 @@
 		"tS": 0
 		},
 	"\/public\/idic\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/idic\/robots.txt",
@@ -323,7 +397,10 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-alphaghetto.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/furniture\/idic-background.png": {
 		"ft": 32768,
@@ -331,7 +408,10 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-background.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/furniture\/idic-busy-b.png": {
 		"ft": 32768,
@@ -339,7 +419,10 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-busy-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/furniture\/idic-clouds.png": {
 		"ft": 32768,
@@ -347,7 +430,10 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-clouds.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/furniture\/idic-lettropolis.png": {
 		"ft": 32768,
@@ -355,15 +441,21 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-lettropolis.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/furniture\/idic-link-tint.jpg": {
 		"ft": 16384,
 		"iS": 320,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-link-tint.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/furniture\/idic-nav-contact.png": {
 		"ft": 32768,
@@ -371,7 +463,10 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-nav-contact.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/furniture\/idic-nav-home.png": {
 		"ft": 32768,
@@ -379,7 +474,10 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-nav-home.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/furniture\/idic-nav-work.png": {
 		"ft": 32768,
@@ -387,25 +485,35 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/furniture\/idic-nav-work.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/idic-logo.jpg": {
 		"ft": 16384,
 		"iS": 11137,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/idic-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/idic-luke-darbyshire.jpg": {
 		"ft": 16384,
 		"iS": 6783,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/idic-luke-darbyshire.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/luke-darbyshire-cv.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/idic\/rsrc\/luke-darbyshire-cv.pdf",
@@ -414,194 +522,266 @@
 	"\/public\/idic\/rsrc\/portfolio\/abp\/idic-abp-website-01.jpg": {
 		"ft": 16384,
 		"iS": 82113,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/abp\/idic-abp-website-01.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/bedlambar\/idic-bedlambar-flyer-01.jpg": {
 		"ft": 16384,
 		"iS": 69049,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/bedlambar\/idic-bedlambar-flyer-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/conjungo\/idic-conjungo-identity-01.jpg": {
 		"ft": 16384,
 		"iS": 16485,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/conjungo\/idic-conjungo-identity-01.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/conjungo\/idic-conjungo-identity-02.jpg": {
 		"ft": 16384,
 		"iS": 33583,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/conjungo\/idic-conjungo-identity-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/jhb\/idic-jhb-identity-01.jpg": {
 		"ft": 16384,
 		"iS": 92244,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/jhb\/idic-jhb-identity-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/jvainer\/idic-jvainer-website-01.jpg": {
 		"ft": 16384,
 		"iS": 41417,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/jvainer\/idic-jvainer-website-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/laplagne\/idic-laplagne-hoody-01.jpg": {
 		"ft": 16384,
 		"iS": 66741,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/laplagne\/idic-laplagne-hoody-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/laplagne\/idic-laplagne-hoody-02.jpg": {
 		"ft": 16384,
 		"iS": 37184,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/laplagne\/idic-laplagne-hoody-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/meteor\/idic-meteor-innovative-01.jpg": {
 		"ft": 16384,
 		"iS": 46356,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/meteor\/idic-meteor-innovative-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/meteor\/idic-meteor-innovative-02.jpg": {
 		"ft": 16384,
 		"iS": 24305,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/meteor\/idic-meteor-innovative-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/msi-c&w\/idic-msi-c&w-01.jpg": {
 		"ft": 16384,
 		"iS": 88918,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/msi-c&w\/idic-msi-c&w-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/msi-c&w\/idic-msi-c&w-02.jpg": {
 		"ft": 16384,
 		"iS": 69938,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/msi-c&w\/idic-msi-c&w-02.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/msi-c&w\/idic-msi-c&w-03.jpg": {
 		"ft": 16384,
 		"iS": 101373,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/msi-c&w\/idic-msi-c&w-03.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/msi-gsac\/idic-msi-gsac-01.jpg": {
 		"ft": 16384,
 		"iS": 41077,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/msi-gsac\/idic-msi-gsac-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/msi-gsac\/idic-msi-gsac-02.jpg": {
 		"ft": 16384,
 		"iS": 49128,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/msi-gsac\/idic-msi-gsac-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/noddy\/idic-noddy-scarf-face-beretta.jpg": {
 		"ft": 16384,
 		"iS": 17871,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/noddy\/idic-noddy-scarf-face-beretta.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/noddy\/idic-noddy-scarf-face-kite.jpg": {
 		"ft": 16384,
 		"iS": 19772,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/noddy\/idic-noddy-scarf-face-kite.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/noddy\/idic-noddy-sketch-01.jpg": {
 		"ft": 16384,
 		"iS": 43121,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/noddy\/idic-noddy-sketch-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/noddy\/idic-noddy-sketch-02.jpg": {
 		"ft": 16384,
 		"iS": 48940,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/noddy\/idic-noddy-sketch-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/oceanwave\/idic-oceanwave-flyer-01.jpg": {
 		"ft": 16384,
 		"iS": 100203,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/oceanwave\/idic-oceanwave-flyer-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/oceanwave\/idic-oceanwave-flyer-02.jpg": {
 		"ft": 16384,
 		"iS": 66283,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/oceanwave\/idic-oceanwave-flyer-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/pms\/idic-pms-brochure-01.jpg": {
 		"ft": 16384,
 		"iS": 43388,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/pms\/idic-pms-brochure-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/pms\/idic-pms-brochure-02.jpg": {
 		"ft": 16384,
 		"iS": 54821,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/pms\/idic-pms-brochure-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/pms\/idic-pms-brochure-03.jpg": {
 		"ft": 16384,
 		"iS": 45002,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/pms\/idic-pms-brochure-03.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/speednames\/idic-speednames-banners-01.gif": {
 		"ft": 4194304,
@@ -614,34 +794,46 @@
 	"\/public\/idic\/rsrc\/portfolio\/speednames\/idic-speednames-banners-02.jpg": {
 		"ft": 16384,
 		"iS": 81133,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/speednames\/idic-speednames-banners-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/storetech\/idic-storetech-identity-01.jpg": {
 		"ft": 16384,
 		"iS": 35781,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/storetech\/idic-storetech-identity-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/storetech\/idic-storetech-identity-02.jpg": {
 		"ft": 16384,
 		"iS": 49156,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/storetech\/idic-storetech-identity-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/portfolio\/timandra\/idic-timandra-website-01.jpg": {
 		"ft": 16384,
 		"iS": 33362,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/portfolio\/timandra\/idic-timandra-website-01.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/slimbox\/close.png": {
 		"ft": 32768,
@@ -649,7 +841,10 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/slimbox\/close.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/slimbox\/loading.gif": {
 		"ft": 4194304,
@@ -665,7 +860,10 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/slimbox\/next.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/slimbox\/prev.png": {
 		"ft": 32768,
@@ -673,189 +871,248 @@
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/slimbox\/prev.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-abp-website-thumb.jpg": {
 		"ft": 16384,
 		"iS": 5341,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-abp-website-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-bedlambar-flyer-thumb.jpg": {
 		"ft": 16384,
 		"iS": 6134,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-bedlambar-flyer-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-conjungo-identity-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4369,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-conjungo-identity-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-jhb-identity-thumb.jpg": {
 		"ft": 16384,
 		"iS": 3549,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-jhb-identity-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-jvainer-website-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4148,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-jvainer-website-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-laplagne-hoody-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4427,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-laplagne-hoody-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-meteor-innovative-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4181,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-meteor-innovative-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-msi-c&w-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4257,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-msi-c&w-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-msi-gsac-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4642,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-msi-gsac-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-noddy-scarfface-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4302,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-noddy-scarfface-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-oceanwave-flyer-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4827,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-oceanwave-flyer-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-pms-brochure-thumb.jpg": {
 		"ft": 16384,
 		"iS": 5142,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-pms-brochure-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-speednames-banners-thumb.jpg": {
 		"ft": 16384,
 		"iS": 5435,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-speednames-banners-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-storetech-identity-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4326,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-storetech-identity-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/rsrc\/thumbs\/idic-timandra-website-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4634,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/idic\/rsrc\/thumbs\/idic-timandra-website-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/idic\/work\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/idic\/work\/index.html",
 		"oF": 0
 		},
 	"\/public\/inc\/analyticstracking.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/analyticstracking.php",
 		"oF": 0
 		},
 	"\/public\/inc\/end.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/end.php",
 		"oF": 0
 		},
 	"\/public\/inc\/footer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/footer.php",
 		"oF": 0
 		},
 	"\/public\/inc\/functions.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/functions.php",
 		"oF": 0
 		},
 	"\/public\/inc\/head.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/head.php",
 		"oF": 0
 		},
 	"\/public\/inc\/next_post.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/next_post.php",
 		"oF": 0
 		},
 	"\/public\/inc\/posts.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/posts.php",
 		"oF": 0
 		},
 	"\/public\/inc\/variables.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/variables.php",
 		"oF": 0
 		},
 	"\/public\/inc\/vars.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/inc\/vars.php",
 		"oF": 0
 		},
 	"\/public\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/index.php",
@@ -863,6 +1120,7 @@
 		},
 	"\/public\/js\/ie-emulation-modes-warning.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/js\/min\/ie-emulation-modes-warning-min.js",
@@ -872,6 +1130,7 @@
 		},
 	"\/public\/js\/ie10-viewport-bug-workaround.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/js\/min\/ie10-viewport-bug-workaround-min.js",
@@ -881,6 +1140,7 @@
 		},
 	"\/public\/js\/ie8-responsive-file-warning.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/js\/min\/ie8-responsive-file-warning-min.js",
@@ -890,6 +1150,7 @@
 		},
 	"\/public\/js\/jquery.smoothState.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/js\/min\/jquery.smoothState-min.js",
@@ -899,6 +1160,7 @@
 		},
 	"\/public\/js\/min\/responsive-slides-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/public\/js\/min\/min\/responsive-slides-min-min.js",
@@ -908,6 +1170,7 @@
 		},
 	"\/public\/js\/responsive-slides.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/js\/min\/responsive-slides-min.js",
@@ -916,250 +1179,111 @@
 		"tS": 0
 		},
 	"\/public\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/robots.txt",
 		"oF": 0
 		},
 	"\/public\/sneak-peek\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/sneak-peek\/index.php",
 		"oF": 0
 		},
 	"\/public\/sneak-peek\/nationwide\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/sneak-peek\/nationwide\/index.php",
 		"oF": 0
 		},
 	"\/public\/sneak-peek\/nationwide\/video\/nationwide-goals-dashboard.mp4": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/sneak-peek\/nationwide\/video\/nationwide-goals-dashboard.mp4",
 		"oF": 0
 		},
 	"\/public\/sneak-peek\/nationwide\/video\/nationwide-visual-planner.mp4": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/sneak-peek\/nationwide\/video\/nationwide-visual-planner.mp4",
 		"oF": 0
 		},
 	"\/public\/variable-test\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/variable-test\/index.php",
 		"oF": 0
 		},
 	"\/public\/variables.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/variables.php",
 		"oF": 0
 		},
-	"\/public\/WHBN local\/conf\/authz": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/conf\/authz",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/conf\/passwd": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/conf\/passwd",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/conf\/svnserve.conf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/conf\/svnserve.conf",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/current": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/current",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/format": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/format",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/fs-type": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/fs-type",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/fsfs.conf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/fsfs.conf",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/min-unpacked-rev": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/min-unpacked-rev",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/revprops\/0\/0": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/revprops\/0\/0",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/revs\/0\/0": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/revs\/0\/0",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/txn-current": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/txn-current",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/txn-current-lock": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/txn-current-lock",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/uuid": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/uuid",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/db\/write-lock": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/db\/write-lock",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/format": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/format",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/post-commit.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/post-commit.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/post-lock.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/post-lock.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/post-revprop-change.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/post-revprop-change.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/post-unlock.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/post-unlock.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/pre-commit.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/pre-commit.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/pre-lock.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/pre-lock.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/pre-revprop-change.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/pre-revprop-change.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/pre-unlock.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/pre-unlock.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/hooks\/start-commit.tmpl": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/hooks\/start-commit.tmpl",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/locks\/db-logs.lock": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/locks\/db-logs.lock",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/locks\/db.lock": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/locks\/db.lock",
-		"oF": 0
-		},
-	"\/public\/WHBN local\/README.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/WHBN local\/README.txt",
-		"oF": 0
-		},
 	"\/public\/work\/baby-dove\/images\/article-page.jpg": {
 		"ft": 16384,
 		"iS": 86320,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/baby-dove\/images\/article-page.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/baby-dove\/images\/client-facing.jpg": {
 		"ft": 16384,
 		"iS": 141790,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/baby-dove\/images\/client-facing.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/baby-dove\/images\/home-page.jpg": {
 		"ft": 16384,
 		"iS": 75037,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/baby-dove\/images\/home-page.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/baby-dove\/images\/product-detail-page.jpg": {
 		"ft": 16384,
 		"iS": 44903,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/baby-dove\/images\/product-detail-page.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/baby-dove\/images\/product-landing-page.jpg": {
 		"ft": 16384,
 		"iS": 75193,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/baby-dove\/images\/product-landing-page.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/baby-dove\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/baby-dove\/index.php",
@@ -1168,52 +1292,71 @@
 	"\/public\/work\/brit-row-website\/images\/desktop-1.jpg": {
 		"ft": 16384,
 		"iS": 88547,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/brit-row-website\/images\/desktop-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/brit-row-website\/images\/desktop-2.jpg": {
 		"ft": 16384,
 		"iS": 98713,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/brit-row-website\/images\/desktop-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/brit-row-website\/images\/desktop-history.jpg": {
 		"ft": 16384,
 		"iS": 72255,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/brit-row-website\/images\/desktop-history.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/brit-row-website\/images\/desktop-team.jpg": {
 		"ft": 16384,
 		"iS": 101902,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/brit-row-website\/images\/desktop-team.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/brit-row-website\/images\/mobile.jpg": {
 		"ft": 16384,
 		"iS": 102828,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/brit-row-website\/images\/mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/brit-row-website\/images\/workings.jpg": {
 		"ft": 16384,
 		"iS": 120491,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/brit-row-website\/images\/workings.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/brit-row-website\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/brit-row-website\/index.php",
@@ -1222,28 +1365,38 @@
 	"\/public\/work\/cashback-plus\/images\/desktop-natwest.jpg": {
 		"ft": 16384,
 		"iS": 107670,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/cashback-plus\/images\/desktop-natwest.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/cashback-plus\/images\/desktop-rbs.jpg": {
 		"ft": 16384,
 		"iS": 119831,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/cashback-plus\/images\/desktop-rbs.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/cashback-plus\/images\/mobile.jpg": {
 		"ft": 16384,
 		"iS": 119290,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/cashback-plus\/images\/mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/cashback-plus\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/cashback-plus\/index.php",
@@ -1252,10 +1405,13 @@
 	"\/public\/work\/dove\/images\/article-mobile.jpg": {
 		"ft": 16384,
 		"iS": 117786,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/article-mobile.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/work\/dove\/images\/home-desktop.gif": {
 		"ft": 4194304,
@@ -1268,86 +1424,114 @@
 	"\/public\/work\/dove\/images\/home-desktop.jpg": {
 		"ft": 16384,
 		"iS": 80324,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/home-desktop.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/work\/dove\/images\/hub-desktop.jpg": {
 		"ft": 16384,
 		"iS": 97064,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/hub-desktop.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/dove\/images\/product-detail-page-mobile.jpg": {
 		"ft": 16384,
 		"iS": 68730,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/product-detail-page-mobile.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/work\/dove\/images\/product-detail-page-tablet.jpg": {
 		"ft": 16384,
 		"iS": 43173,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/product-detail-page-tablet.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/work\/dove\/images\/product-landing-page-tablet.jpg": {
 		"ft": 16384,
 		"iS": 75897,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/product-landing-page-tablet.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/work\/dove\/images\/work-life-1.jpg": {
 		"ft": 16384,
 		"iS": 118198,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/work-life-1.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/work\/dove\/images\/work-life-2.jpg": {
 		"ft": 16384,
 		"iS": 102460,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/work-life-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/dove\/images\/work-life-3.jpg": {
 		"ft": 16384,
 		"iS": 137304,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/dove\/images\/work-life-3.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/dove\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/dove\/index.php",
 		"oF": 0
 		},
 	"\/public\/work\/dove\/video\/dove-home-page-desktop.mp4": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/dove\/video\/dove-home-page-desktop.mp4",
 		"oF": 0
 		},
 	"\/public\/work\/dove\/video\/dove-home-page-desktop.ogv": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/dove\/video\/dove-home-page-desktop.ogv",
 		"oF": 0
 		},
 	"\/public\/work\/dove\/video\/dove-home-page-desktop.webm": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/dove\/video\/dove-home-page-desktop.webm",
@@ -1356,34 +1540,45 @@
 	"\/public\/work\/gzba-leaflet\/images\/front.jpg": {
 		"ft": 16384,
 		"iS": 111549,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/gzba-leaflet\/images\/front.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/gzba-leaflet\/images\/inside.jpg": {
 		"ft": 16384,
 		"iS": 97072,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/gzba-leaflet\/images\/inside.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/gzba-leaflet\/images\/reverse.jpg": {
 		"ft": 16384,
 		"iS": 109589,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/gzba-leaflet\/images\/reverse.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/gzba-leaflet\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/gzba-leaflet\/index.php",
 		"oF": 0
 		},
 	"\/public\/work\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/index.php",
@@ -1392,44 +1587,60 @@
 	"\/public\/work\/microsoft-calendar\/images\/calendar-face-on.jpg": {
 		"ft": 16384,
 		"iS": 71183,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-face-on.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/microsoft-calendar\/images\/calendar-in-situ.jpg": {
 		"ft": 16384,
 		"iS": 100704,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-in-situ.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/microsoft-calendar\/images\/calendar-side-on.jpg": {
 		"ft": 16384,
 		"iS": 75257,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-side-on.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/microsoft-calendar\/images\/selected-set-1.jpg": {
 		"ft": 16384,
 		"iS": 89957,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/microsoft-calendar\/images\/selected-set-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/microsoft-calendar\/images\/selected-set-2.jpg": {
 		"ft": 16384,
 		"iS": 145596,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/microsoft-calendar\/images\/selected-set-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/microsoft-calendar\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/microsoft-calendar\/index.php",
@@ -1438,44 +1649,60 @@
 	"\/public\/work\/mountain-tracks-brochures\/images\/back-cover.jpg": {
 		"ft": 16384,
 		"iS": 85338,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/back-cover.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/mountain-tracks-brochures\/images\/front-cover.jpg": {
 		"ft": 16384,
 		"iS": 98694,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/front-cover.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/mountain-tracks-brochures\/images\/spread-intro.jpg": {
 		"ft": 16384,
 		"iS": 69851,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/spread-intro.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/mountain-tracks-brochures\/images\/spread-top-5.jpg": {
 		"ft": 16384,
 		"iS": 66258,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/spread-top-5.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/mountain-tracks-brochures\/images\/spreads-angle.jpg": {
 		"ft": 16384,
 		"iS": 100725,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/spreads-angle.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/mountain-tracks-brochures\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/mountain-tracks-brochures\/index.php",
@@ -1484,28 +1711,38 @@
 	"\/public\/work\/msi-c-and-w\/images\/back.jpg": {
 		"ft": 16384,
 		"iS": 50611,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/msi-c-and-w\/images\/back.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/msi-c-and-w\/images\/front.jpg": {
 		"ft": 16384,
 		"iS": 58793,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/msi-c-and-w\/images\/front.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/public\/work\/msi-c-and-w\/images\/inside.jpg": {
 		"ft": 16384,
 		"iS": 68516,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/msi-c-and-w\/images\/inside.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/msi-c-and-w\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/msi-c-and-w\/index.php",
@@ -1530,12 +1767,16 @@
 	"\/public\/work\/nba-payback\/images\/tablet.jpg": {
 		"ft": 16384,
 		"iS": 88839,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/nba-payback\/images\/tablet.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/nba-payback\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/nba-payback\/index.php",
@@ -1544,60 +1785,82 @@
 	"\/public\/work\/penny-for-london\/images\/landing.jpg": {
 		"ft": 16384,
 		"iS": 71656,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/penny-for-london\/images\/landing.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/penny-for-london\/images\/projects.jpg": {
 		"ft": 16384,
 		"iS": 53267,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/penny-for-london\/images\/projects.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/penny-for-london\/images\/registration.jpg": {
 		"ft": 16384,
 		"iS": 81493,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/penny-for-london\/images\/registration.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/penny-for-london\/images\/responsive-workings.jpg": {
 		"ft": 16384,
 		"iS": 74469,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/penny-for-london\/images\/responsive-workings.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/penny-for-london\/images\/ux-1.jpg": {
 		"ft": 16384,
 		"iS": 99135,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/penny-for-london\/images\/ux-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/penny-for-london\/images\/ux-2.jpg": {
 		"ft": 16384,
 		"iS": 126948,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/penny-for-london\/images\/ux-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/penny-for-london\/images\/welcome.jpg": {
 		"ft": 16384,
 		"iS": 48023,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/penny-for-london\/images\/welcome.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/penny-for-london\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/penny-for-london\/index.php",
@@ -1606,34 +1869,46 @@
 	"\/public\/work\/reward-brand\/images\/brand-guidelines.jpg": {
 		"ft": 16384,
 		"iS": 111405,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/brand-guidelines.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/images\/business-cards.jpg": {
 		"ft": 16384,
 		"iS": 58674,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/business-cards.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/images\/entrance-signage.jpg": {
 		"ft": 16384,
 		"iS": 67030,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/entrance-signage.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/images\/lobby-display.jpg": {
 		"ft": 16384,
 		"iS": 92453,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/lobby-display.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/images\/reward-logo.gif": {
 		"ft": 4194304,
@@ -1646,44 +1921,60 @@
 	"\/public\/work\/reward-brand\/images\/stationery-1.jpg": {
 		"ft": 16384,
 		"iS": 53588,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/stationery-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/images\/stationery-2.jpg": {
 		"ft": 16384,
 		"iS": 58336,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/stationery-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/images\/website-desktop.jpg": {
 		"ft": 16384,
 		"iS": 69795,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/website-desktop.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/images\/website-responsive.jpg": {
 		"ft": 16384,
 		"iS": 101571,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/website-responsive.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/images\/workings.jpg": {
 		"ft": 16384,
 		"iS": 139551,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/images\/workings.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/reward-brand\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/index.php",
@@ -1692,36 +1983,49 @@
 	"\/public\/work\/santander\/images\/landing.jpg": {
 		"ft": 16384,
 		"iS": 159543,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/santander\/images\/landing.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/santander\/images\/map-and-account.jpg": {
 		"ft": 16384,
 		"iS": 132767,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/santander\/images\/map-and-account.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/santander\/images\/offer.jpg": {
 		"ft": 16384,
 		"iS": 128665,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/santander\/images\/offer.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/santander\/images\/shopping-bag.jpg": {
 		"ft": 16384,
 		"iS": 51630,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/santander\/images\/shopping-bag.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/santander\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/santander\/index.php",
@@ -2958,7 +3262,7 @@
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/public\/css\/idic.css",
 		"oF": 2,
@@ -3147,7 +3451,8 @@
 	"creationDate": 499793962,
 	"displayValue": "Work hard, be nice",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-angryPicard"
+	"iconImageName": "\/public\/apple-touch-icon-precomposed.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -3155,6 +3460,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -3551,6 +3857,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -3558,6 +3868,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -3590,6 +3904,10 @@
 		"camelcase": {
 			"active": 0,
 			"optionString": "{'properties': 'always'}"
+			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
 			},
 		"class-methods-use-this": {
 			"active": 0,
@@ -3651,6 +3969,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -3667,9 +3989,17 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -3694,6 +4024,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -3727,9 +4061,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -3755,6 +4089,14 @@
 			"active": 0,
 			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
 			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -3764,14 +4106,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3787,9 +4121,17 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -3805,6 +4147,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -4007,6 +4353,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -4087,6 +4437,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -4118,6 +4472,10 @@
 		"no-return-assign": {
 			"active": 0,
 			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-script-url": {
 			"active": 0,
@@ -4279,6 +4637,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -4315,6 +4677,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -4323,9 +4689,17 @@
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
 			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -4351,6 +4725,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
@@ -4370,6 +4748,10 @@
 		"semi-spacing": {
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
 			},
 		"sort-imports": {
 			"active": 0,
@@ -4411,11 +4793,19 @@
 			"active": 0,
 			"optionString": "'safe'"
 			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
 		"symbol-description": {
 			"active": 0,
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -4819,7 +5209,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -4852,6 +5243,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -4862,7 +5254,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -4886,21 +5280,14 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -4932,13 +5319,13 @@
 		"enableFootnotes": 0,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -4947,7 +5334,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -4955,7 +5343,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -4965,7 +5355,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -4993,7 +5384,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -5040,9 +5432,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
@@ -5183,6 +5577,10 @@
 			},
 		"space-colon": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {

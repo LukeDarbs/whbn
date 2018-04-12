@@ -1126,7 +1126,6 @@ abbr[title] {
 .gallery ul li {
   margin: 20px 0 ;
   max-width: 1000px;
-  display: flex;
   position: relative;
 }
 .gallery ul li.collapse {
@@ -1371,3 +1370,4 @@ abbr[title] {
 .post-nba-payback footer {
   color: #666;
 }
+/*# sourceMappingURL=idic.css.map */
