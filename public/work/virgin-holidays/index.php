@@ -79,7 +79,7 @@ include("posts.php");
 					<p>Leading the design for their first app presented a great opportunity to encourage the growing
 						culture of human-centred design at Virgin&nbsp;Holidays. From a blank-canvas, various rounds of research
 						and user testing helped us shape the app, deliver a fantastic experience for holidaymakers and a
-						solid platform for the team at Virgin&nbsp;Holidays to build on.
+						solid platform for a long list of future features.
 				</div>
 
 			</div>

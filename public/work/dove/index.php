@@ -14,7 +14,7 @@ include("posts.php");
 
 	$this_post = $post_info['dove'];
 
-	$prev_post = $post_info['virgin-holidays'];
+	$prev_post = $post_info['virgin_holidays'];
 	$next_post = $post_info['baby_dove'];
 
 ?>
