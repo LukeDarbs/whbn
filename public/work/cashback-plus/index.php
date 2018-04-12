@@ -8,9 +8,9 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['cashback_plus'];
 
@@ -36,12 +36,12 @@ include("posts.php");
 								<li><img src="images/desktop-rbs.jpg" alt="RBS Cashback Plus – Desktop" /></li>
 							</ul>
 						</li>
-						<li class="collapse">
+						<!-- <li class="collapse">
 							<div class="link-banner">
 								<a href="https://www.cashbackplus.natwest.com/" target="_blank" title="Open the NatWest Cashback Plus website in a new tab"  >
 								Visit the Cashback Plus website</a>
 							</div>
-						</li>
+						</li> -->
 						<li>
 							<img src="images/mobile.jpg" alt="NatWest and RBS Cashback Plus – Mobile" />
 						</li>
@@ -55,7 +55,7 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> I built and led the Reward design and development team, working with the client’s agencies 
+					<p> I built and led the Reward design and development team, working with the client’s agencies
 						to deliver the websites to exacting standards under enormous pressure for time.</p>
 				</div>
 
@@ -68,5 +68,3 @@ include("posts.php");
 
 <?php include("footer.php"); ?>
 <?php include("end.php"); ?>
-
-
