@@ -1,8 +1,6 @@
 <?php
 
-header("Location: work/dove/");
+header("Location: work/virgin-holidays/");
 die();
 
 ?>
-
-

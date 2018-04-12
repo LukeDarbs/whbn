@@ -2010,6 +2010,151 @@
 		"oAP": "\/public\/work\/reward-brand\/index.php",
 		"oF": 0
 		},
+	"\/public\/work\/virgin-holidays\/images\/destination-heroes-in-progress.jpg": {
+		"ft": 16384,
+		"iS": 395405,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/destination-heroes-in-progress.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/virgin-holidays\/images\/destination-heroes.jpg": {
+		"ft": 16384,
+		"iS": 302282,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/destination-heroes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/virgin-holidays\/images\/flight-and-hotel-mobile.jpg": {
+		"ft": 16384,
+		"iS": 307794,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/flight-and-hotel-mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/virgin-holidays\/images\/home-hero-and-footer.jpg": {
+		"ft": 16384,
+		"iS": 354279,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/home-hero-and-footer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/virgin-holidays\/images\/loading-state.gif": {
+		"ft": 4194304,
+		"iS": 2446966,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/loading-state.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/work\/virgin-holidays\/images\/making-of-1.jpg": {
+		"ft": 16384,
+		"iS": 393137,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/making-of-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/virgin-holidays\/images\/making-of-2.jpg": {
+		"ft": 16384,
+		"iS": 374076,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/making-of-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/virgin-holidays\/images\/making-of-3.jpg": {
+		"ft": 16384,
+		"iS": 441558,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/making-of-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/virgin-holidays\/images\/virgin-holidays-app.jpg": {
+		"ft": 16384,
+		"iS": 370551,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/virgin-holidays\/images\/virgin-holidays-app.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/virgin-holidays\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/virgin-holidays\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/virgin-holidays\/video\/destination-heroes.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/virgin-holidays\/video\/destination-heroes.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/virgin-holidays\/video\/destination-heroes.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/virgin-holidays\/video\/destination-heroes.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/virgin-holidays\/video\/destination-heroes.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/virgin-holidays\/video\/destination-heroes.webm",
+		"oF": 0
+		},
+	"\/public\/work\/virgin-holidays\/video\/virgin-holidays-app.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/virgin-holidays\/video\/virgin-holidays-app.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/virgin-holidays\/video\/virgin-holidays-app.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/virgin-holidays\/video\/virgin-holidays-app.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/virgin-holidays\/video\/virgin-holidays-app.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/virgin-holidays\/video\/virgin-holidays-app.webm",
+		"oF": 0
+		},
 	"\/source\/less\/bootstrap\/alerts.less": {
 		"aP": 0,
 		"bl": 0,

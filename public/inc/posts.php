@@ -161,7 +161,7 @@ $post_info = array
 					'id' => 212,
 					'post_name' => "baby-dove",
 					'post_url' => "work/baby-dove",
-					'description' => "Baby Dove sub-brand as part of the Dove global website",
+					'description' => "Baby Dove sub-brand as part of the Dove global website.",
 					'title' => "Baby Dove",
 					'parent_menu_id' => 2
 					),
@@ -173,6 +173,16 @@ $post_info = array
 					'post_url' => "work/microsoft-calendar",
 					'description' => "Calendar promoting Microsoft Office 365 and the new Nokia Windows devices.",
 					'title' => "Microsoft Office 365 calendar",
+					'parent_menu_id' => 2
+					),
+
+				"virgin_holidays" => array
+					(
+					'id' => 218,
+					'post_name' => "virgin-holidays",
+					'post_url' => "work/virgin-holidays",
+					'description' => "Design lead on Virgin Holidays’ first app.",
+					'title' => "Virgin Holidays",
 					'parent_menu_id' => 2
 					),
 

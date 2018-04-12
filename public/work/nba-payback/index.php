@@ -8,14 +8,14 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['nba_payback'];
 
 	$prev_post = $post_info['msi_candw'];
-	$next_post = $post_info['dove'];
+	$next_post = $post_info['virgin-holidays'];
 
 ?>
 
@@ -49,7 +49,7 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> Appealing to a young UK audience was important for this programme and I designed the logo, 
+					<p> Appealing to a young UK audience was important for this programme and I designed the logo,
 						website and all comms to neatly complement the <abbr title="National Basketball Association">NBA</abbr>’s All-Access brand.</p>
 				</div>
 
@@ -62,5 +62,3 @@ include("posts.php");
 
 <?php include("footer.php"); ?>
 <?php include("end.php"); ?>
-
-
