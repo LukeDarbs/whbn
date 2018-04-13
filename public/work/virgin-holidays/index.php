@@ -32,7 +32,7 @@ include("posts.php");
 					<ul>
 						<li>
 							<!-- <img src="images/virgin-holidays-app.jpg" alt="Virgin Holidays app" /> -->
-							<video poster="images/virgin-holidays-app.jpg" width="100% !important" height="auto 100% !important" muted autoplay >
+							<video poster="images/virgin-holidays-app.jpg" width="100% !important" height="auto 100% !important" muted autoplay playsinline >
 								<source src="video/virgin-holidays-app.mp4" type="video/mp4" />
 								<source src="video/virgin-holidays-app.webm" type="video/webm" />
 								<source src="video/virgin-holidays-app.ogv" type="video/ogg" />
@@ -44,7 +44,7 @@ include("posts.php");
 						</li>
 						<li style="padding: 12%;">
 							<!-- <img src="images/destination-heroes.jpg" alt="Destination hero images" /> -->
-							<video poster="images/destination-heroes.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop>
+							<video poster="images/destination-heroes.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline >
 								<source src="video/destination-heroes.mp4" type="video/mp4" />
 								<source src="video/destination-heroes.webm" type="video/webm" />
 								<source src="video/destination-heroes.ogv" type="video/ogg" />
