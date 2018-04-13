@@ -9,26 +9,26 @@
 		<link rel="icon" href="favicon.ico">
 
 		<title>
-			<?php 
+			<?php
 
 			$title = $this_post['title'];
 
 			if( $this_post['subtitle'] != null ) {
 
-				$title .= " " . $this_post['subtitle']; 
+				$title .= " " . $this_post['subtitle'];
 			}
 
 			$title .= " by Luke Darbyshire";
 
-			echo $title; 
+			echo $title;
 
 			?>
 		</title>
 
 		<!-- Fonts -->
-		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300' rel='stylesheet' type='text/css'>
+		<!-- <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300' rel='stylesheet' type='text/css'> -->
 		<link href='http://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
-		<!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'> -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 		<!-- <link href='http://fonts.googleapis.com/css?family=Muli:300' rel='stylesheet' type='text/css'> -->
 
 		<!-- Core CSS -->
@@ -49,5 +49,3 @@
 		<!-- <div class="m-scene" id="main">
 
 		<div class="scene_element scene_element--fadeinright"> -->
-
-		
