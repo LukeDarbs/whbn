@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="46px" viewBox="0 0 29 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-path</title>
+    <desc></desc>
+    <defs></defs>
+    <g fill="none" fill-rule="evenodd">
+        <polygon id="arrow-path" fill="#d9d9d9" points="5.66 0 28.26 22.6 5.66 45.2 0 39.55 16.956 22.6 0 5.65"></polygon>
+    </g>
+</svg>

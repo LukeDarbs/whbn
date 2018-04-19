@@ -1198,7 +1198,8 @@ abbr[title] {
   height: 70px;
   width: 47%;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.35) url('img/arrow-left.png') no-repeat 30px center;
+  background: white url('img/arrow-left.svg') 15px center / 22px no-repeat;
+  opacity: .55;
   -webkit-transition: all ease-out 0.5s;
   -o-transition: all ease-out 0.5s;
   transition: all ease-out 0.5s;
@@ -1215,13 +1216,14 @@ abbr[title] {
   margin-top: 40px;
   padding: 0 30px;
   text-align: left;
+  letter-spacing: .6px;
   font-size: 16.362px;
   color: transparent;
 }
 .prev-project:hover,
 .next-project:hover {
   text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.6);
+  opacity: .95;
   -webkit-transition: all ease-out 0s;
   -o-transition: all ease-out 0s;
   transition: all ease-out 0s;
@@ -1233,6 +1235,12 @@ abbr[title] {
   -o-transition: all ease-out 0s;
   transition: all ease-out 0s;
 }
+@media (min-width: 568px) {
+  .prev-project,
+  .next-project {
+    width: 25%;
+  }
+}
 @media (min-width: 768px) {
   .prev-project,
   .next-project {
@@ -1240,12 +1248,15 @@ abbr[title] {
     position: fixed;
     height: 100%;
     width: 08%;
+    background-size: 33px;
+    background-position: 20px center;
   }
 }
 @media (min-width: 992px) {
   .prev-project,
   .next-project {
     width: 10%;
+    background-position: 30px center;
   }
   .prev-project:hover,
   .next-project:hover {
@@ -1254,7 +1265,7 @@ abbr[title] {
   }
   .prev-project:hover p,
   .next-project:hover p {
-    color: #999;
+    color: #777;
     width: 150px;
   }
 }
@@ -1298,7 +1309,7 @@ abbr[title] {
 }
 .next-project {
   float: right;
-  background: rgba(255, 255, 255, 0.35) url('img/arrow-right.png') no-repeat right 30px center;
+  background: white url('img/arrow-right.svg') right 15px center / 22px no-repeat;
 }
 .next-project p {
   text-align: right;
@@ -1307,6 +1318,13 @@ abbr[title] {
   .next-project {
     float: none;
     right: 0;
+    background-size: 33px;
+    background-position: right 20px center;
+  }
+}
+@media (min-width: 992px) {
+  .next-project {
+    background-position: right 30px center;
   }
 }
 .description {
@@ -1348,11 +1366,11 @@ abbr[title] {
 }
 .post-nba-payback .prev-project,
 .post-nba-payback .next-project {
-  background-color: rgba(255, 255, 255, 0.1);
+  opacity: .2;
 }
 .post-nba-payback .prev-project:hover,
 .post-nba-payback .next-project:hover {
-  background-color: rgba(255, 255, 255, 0.2);
+  opacity: .6;
 }
 @media (min-width: 992px) {
   .post-nba-payback .prev-project:hover p,
@@ -1361,10 +1379,10 @@ abbr[title] {
   }
 }
 .post-nba-payback .prev-project {
-  background-image: url('img/arrow-left-black.png');
+  background-image: url('img/arrow-left-black.svg');
 }
 .post-nba-payback .next-project {
-  background-image: url('img/arrow-right-black.png');
+  background-image: url('img/arrow-right-black.svg');
 }
 .post-nba-payback footer {
   color: #555;

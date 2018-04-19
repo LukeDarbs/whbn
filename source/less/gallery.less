@@ -30,7 +30,6 @@
 		li {
 			margin: 20px 0 ;
 			max-width: 1000px;
-			//display: flex;
 			position: relative;
 		}
 
@@ -114,7 +113,9 @@
 	height: 70px;
 	width: 47%;
 	overflow: hidden;
-	background: rgba(255, 255, 255, 0.35) url('img/arrow-left.png') no-repeat 30px center;
+	background: white url('img/arrow-left.svg') 15px center / 22px no-repeat ;
+	// mix-blend-mode: screen; Worked for nav but killed all the other colours on page
+	opacity: .55;
 	.snap-fade();
 	.transition-duration(.5s);
 	z-index: 3000;
@@ -127,14 +128,15 @@
 		margin-top: 40px;
 		padding: 0 30px;
 		text-align: left;
+		letter-spacing: .6px;
 		font-size: (@font-size-base * .909); // ~20px
 		color: transparent;
-		// .snap-fade();
+
 	}
 
 	&:hover {
 		text-decoration: none;
-		background-color: rgba(255, 255, 255, 0.6);
+		opacity: .95;
 		.snap-fade-hover();
 
 		p {
@@ -144,23 +146,32 @@
 
 	}
 
+	@media (min-width: (@screen-sm-min - 200px)) {
+
+		width: 25%;
+
+	}
+
 	@media (min-width: @screen-sm-min) {
 
 		float: none;
 		position: fixed;
 		height: 100%;
 		width: 08%;
+		background-size: 33px;
+		background-position: 20px center;
 
 	}
 
 	@media (min-width: @screen-md-min) {
 
 		width: 10%;
+		background-position: 30px center;
 		&:hover {
 			overflow: visible;
 			width: 150px;
 			p {
-				color: @gray-light;
+				color: @gray;
 				width: 150px;
 			}
 		}
@@ -200,11 +211,10 @@
 	@media (max-width: (@screen-sm-min - 1)) {
 
 		// border: 1px solid red;
-	  position: -webkit-sticky;
-	  position: sticky;
+		position: -webkit-sticky;
+		position: sticky;
 	  // bottom: 96px;
 	  bottom: 36px;
-
 
 	}
 
@@ -213,7 +223,7 @@
 .next-project {
 
 	float: right;
-	background: rgba(255, 255, 255, 0.35) url('img/arrow-right.png') no-repeat right 30px center;
+	background: white url('img/arrow-right.svg') right 15px center / 22px no-repeat ;
 
 	p {
 		text-align: right;
@@ -221,8 +231,16 @@
 
 	@media (min-width: @screen-sm-min) {
 
-	float: none;
-	right: 0;
+		float: none;
+		right: 0;
+		background-size: 33px;
+		background-position: right 20px center;
+
+	}
+
+	@media (min-width: @screen-md-min) {
+
+		background-position: right 30px center;
 
 	}
 }
