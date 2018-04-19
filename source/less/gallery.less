@@ -110,10 +110,11 @@
 	float: left;
 	position: relative;
 	display: block;
-	height: 130px;
+	// height: 130px;
+	height: 70px;
 	width: 47%;
 	overflow: hidden;
-	background: rgba(255, 255, 255, 0.25) url('img/arrow-left.png') no-repeat 30px center;
+	background: rgba(255, 255, 255, 0.35) url('img/arrow-left.png') no-repeat 30px center;
 	.snap-fade();
 	.transition-duration(.5s);
 	z-index: 3000;
@@ -195,12 +196,24 @@
 			}
 		}
 	}
+
+	@media (max-width: (@screen-sm-min - 1)) {
+
+		// border: 1px solid red;
+	  position: -webkit-sticky;
+	  position: sticky;
+	  // bottom: 96px;
+	  bottom: 36px;
+
+
+	}
+
 }
 
 .next-project {
 
 	float: right;
-	background: rgba(255, 255, 255, 0.25) url('img/arrow-right.png') no-repeat right 30px center;
+	background: rgba(255, 255, 255, 0.35) url('img/arrow-right.png') no-repeat right 30px center;
 
 	p {
 		text-align: right;
@@ -225,6 +238,6 @@
 	.make-sm-column-offset(1);
 	.make-md-column(8);
 	.make-md-column-offset(2);
-	padding-bottom: 40px;
+	padding-bottom: 30px;
 	overflow: hidden;
 }

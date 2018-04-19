@@ -1195,10 +1195,10 @@ abbr[title] {
   float: left;
   position: relative;
   display: block;
-  height: 130px;
+  height: 70px;
   width: 47%;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.25) url('img/arrow-left.png') no-repeat 30px center;
+  background: rgba(255, 255, 255, 0.35) url('img/arrow-left.png') no-repeat 30px center;
   -webkit-transition: all ease-out 0.5s;
   -o-transition: all ease-out 0.5s;
   transition: all ease-out 0.5s;
@@ -1288,9 +1288,17 @@ abbr[title] {
     width: 450px;
   }
 }
+@media (max-width: 767px) {
+  .prev-project,
+  .next-project {
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 36px;
+  }
+}
 .next-project {
   float: right;
-  background: rgba(255, 255, 255, 0.25) url('img/arrow-right.png') no-repeat right 30px center;
+  background: rgba(255, 255, 255, 0.35) url('img/arrow-right.png') no-repeat right 30px center;
 }
 .next-project p {
   text-align: right;
@@ -1309,7 +1317,7 @@ abbr[title] {
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
   overflow: hidden;
 }
 @media (min-width: 768px) {
