@@ -28,9 +28,9 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['reward_brand'];
 
@@ -98,6 +98,10 @@ include("posts.php");
 					<h4>$full_url</h4>
 					<p><?php echo $full_url; ?></p>
 				</li>
+				<li>
+					<h4>DOCUMENT_ROOT</h4>
+					<p><?php echo $_SERVER['DOCUMENT_ROOT']; ?></p>
+				</li>
 			</ul>
 
 		</article> <!-- /.container -->
@@ -105,5 +109,3 @@ include("posts.php");
 
 
 <?php include("end.php"); ?>
-
-
