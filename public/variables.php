@@ -13,7 +13,7 @@ set_include_path( "inc/" );
 	$base_dir  = __DIR__ ; // Absolute path to your installation, ex: /var/www/mywebsite
 	$doc_root  = preg_replace("!{$_SERVER['SCRIPT_NAME']}$!", '', $_SERVER['SCRIPT_FILENAME']); # ex: /var/www
 	$base_url  = preg_replace("!^{$doc_root}!", '', $base_dir); # ex: '' or '/mywebsite'
-	$protocol  = empty($_SERVER['HTTPS']) ? 'http' : 'https';
+	$protocol  = 'https';
 	$port      = $_SERVER['SERVER_PORT'];
 	$disp_port = ($protocol == 'http' && $port == 80 || $protocol == 'https' && $port == 443) ? '' : ":$port";
 	$domain    = $_SERVER['SERVER_NAME'];
@@ -28,9 +28,9 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['reward_brand'];
 
@@ -105,5 +105,3 @@ include("posts.php");
 
 
 <?php include("end.php"); ?>
-
-

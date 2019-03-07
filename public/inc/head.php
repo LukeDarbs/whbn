@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" style="background-color: #d9d9d9;">
 	<head>
+
+		<?php include_once("analyticstracking.php") ?>
+		
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,10 +29,8 @@
 		</title>
 
 		<!-- Fonts -->
-		<!-- <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300' rel='stylesheet' type='text/css'> -->
-		<link href='http://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
-		<!-- <link href='http://fonts.googleapis.com/css?family=Muli:300' rel='stylesheet' type='text/css'> -->
+		<link href='https://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 
 		<!-- Core CSS -->
 		<link href="<?php echo $site_root; ?>css/idic.css" rel="stylesheet">
@@ -43,8 +44,6 @@
 	</head>
 
 	<body class="<?php $body = "post-" . $this_post['post_name']; echo $body; ?>" role="main">
-
-	<?php include_once("analyticstracking.php") ?>
 
 		<!-- <div class="m-scene" id="main">
 
