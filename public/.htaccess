@@ -1,1 +1,3 @@
 AddType application/x-httpd-php55 .php .php5
+AddDefaultCharset UTF-8
+ErrorDocument 404 /404/
