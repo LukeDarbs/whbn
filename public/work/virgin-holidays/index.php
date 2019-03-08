@@ -1,5 +1,20 @@
 <?php
 
+	// Redirect HTTP traffic to HTTPS
+
+ // if  ( !$_SERVER['HTTPS'] )
+ // {
+ // $host = $_SERVER['HTTP_HOST'];
+ // $request_uri = $_SERVER['REQUEST_URI'];
+ // $good_url = "https://" . $host . $request_uri;
+ //
+ // header( "Location: $good_url", true, 301 );
+ // exit;
+ // }
+ ?>
+
+ <?php
+
 set_include_path( "../../inc/" );
 
 include("vars.php");
@@ -20,8 +35,6 @@ include("posts.php");
 ?>
 
 <?php include("head.php"); ?>
-
-		<?php // include("nav.php"); ?>
 
 		<article class="container">
 
