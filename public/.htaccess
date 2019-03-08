@@ -2,7 +2,9 @@ AddDefaultCharset UTF-8
 
 ErrorDocument 404 /404/
 
-
+# HTTPS redirect for live environment on 123-reg #
+# ---------------------------------------------- #
 RewriteEngine On
 RewriteCond %{ENV:SSL} !=1
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# ---------------------------------------------- #
