@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 <?php
+=======
+ <?php
+>>>>>>> Stashed changes
 
 set_include_path( "../../inc/" );
 
@@ -14,7 +18,7 @@ include("posts.php");
 
 	$this_post = $post_info['virgin_holidays'];
 
-	$prev_post = $post_info['nba_payback'];
+	$prev_post = $post_info['change_inc'];
 	$next_post = $post_info['dove'];
 
 ?>

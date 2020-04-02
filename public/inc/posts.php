@@ -54,18 +54,6 @@ $post_info = array
 					'parent_menu_id' => 2
 					),
 
-				// ••• Reward website now incorporated into Reward brand •••
-
-				// "reward_website" => array
-				// 	(
-				// 	'id' => 201,
-				// 	'post_name' => "reward-website",
-				// 	'post_url' => "work/reward-website",
-				// 	'description' => "A big, bold statement of intent. The creative team helped to define how Reward talk about their powerful but complex products.",
-				// 	'title' => "Reward website",
-				// 	'parent_menu_id' => 2
-				// 	),
-
 				"cashback_plus" => array
 					(
 					'id' => 202,
@@ -96,13 +84,13 @@ $post_info = array
 					'parent_menu_id' => 2
 					),
 
-				"nationwide" => array
+				"santander" => array
 					(
-					'id' => 214,
-					'post_name' => "nationwide",
-					'post_url' => "work/nationwide",
-					'description' => "Concepts for various savings tools for Nationwide customers",
-					'title' => "Nationwide Savings Tools",
+					'id' => 205,
+					'post_name' => "santander",
+					'post_url' => "sneak-peek/santander",
+					'description' => "Campaigns, websites and more for Santander.",
+					'title' => "Santander",
 					'parent_menu_id' => 2
 					),
 
@@ -176,6 +164,16 @@ $post_info = array
 					'parent_menu_id' => 2
 					),
 
+				"nationwide" => array
+					(
+					'id' => 214,
+					'post_name' => "nationwide",
+					'post_url' => "work/nationwide",
+					'description' => "Concepts for various savings tools for Nationwide customers",
+					'title' => "Nationwide Savings Tools",
+					'parent_menu_id' => 2
+					),
+
 				"virgin_holidays" => array
 					(
 					'id' => 218,
@@ -186,13 +184,13 @@ $post_info = array
 					'parent_menu_id' => 2
 					),
 
-				"santander" => array
+				"change_inc" => array
 					(
-					'id' => 205,
-					'post_name' => "santander",
-					'post_url' => "sneak-peek/santander",
-					'description' => "Campaigns, websites and more for Santander.",
-					'title' => "Santander",
+					'id' => 219,
+					'post_name' => "change-inc",
+					'post_url' => "work/change-inc",
+					'description' => "Design lead for a brand new publishing platform from Vice.",
+					'title' => "Change Incorporated",
 					'parent_menu_id' => 2
 					),
 

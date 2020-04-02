@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/public\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/.htaccess",
+		"oF": 0
+		},
 	"\/public\/404\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -268,13 +275,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira.woff",
-		"oF": 0
-		},
-	"\/public\/htaccess.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/htaccess.txt",
 		"oF": 0
 		},
 	"\/public\/idic\/contact\/index.html": {
@@ -1153,6 +1153,13 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/public\/phpinfo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/phpinfo.php",
+		"oF": 0
+		},
 	"\/public\/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -1216,20 +1223,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/sneak-peek\/santander\/index.php",
-		"oF": 0
-		},
-	"\/public\/variable-test\/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/variable-test\/index.php",
-		"oF": 0
-		},
-	"\/public\/variables.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/variables.php",
 		"oF": 0
 		},
 	"\/public\/work\/baby-dove\/images\/article-page.jpg": {
@@ -1405,6 +1398,56 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/cashback-plus\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/change-inc\/images\/Home.jpg": {
+		"ft": 16384,
+		"iS": 742826,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/Home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/images\/what-is-change-inc.jpg": {
+		"ft": 16384,
+		"iS": 165959,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/what-is-change-inc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/change-inc\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/change-inc\/video\/what-is-change-inc.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/change-inc\/video\/what-is-change-inc.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/change-inc\/video\/what-is-change-inc.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/change-inc\/video\/what-is-change-inc.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/change-inc\/video\/what-is-change-inc.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/change-inc\/video\/what-is-change-inc.webm",
 		"oF": 0
 		},
 	"\/public\/work\/dove\/images\/article-mobile.jpg": {
