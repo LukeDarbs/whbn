@@ -9,11 +9,11 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/public\/.htaccess": {
+	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/public\/.htaccess",
+		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/public\/404\/index.php": {
@@ -275,6 +275,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/fonts\/aspira.woff",
+		"oF": 0
+		},
+	"\/public\/htaccess.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/htaccess.txt",
 		"oF": 0
 		},
 	"\/public\/idic\/contact\/index.html": {
@@ -1153,11 +1160,11 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/public\/phpinfo.php": {
+	"\/public\/LIVE ENV .htaccess": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/public\/phpinfo.php",
+		"oAP": "\/public\/LIVE ENV .htaccess",
 		"oF": 0
 		},
 	"\/public\/robots.txt": {
@@ -1223,6 +1230,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/sneak-peek\/santander\/index.php",
+		"oF": 0
+		},
+	"\/public\/variable-test\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/variable-test\/index.php",
+		"oF": 0
+		},
+	"\/public\/variables.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/variables.php",
 		"oF": 0
 		},
 	"\/public\/work\/baby-dove\/images\/article-page.jpg": {
@@ -1400,12 +1421,89 @@
 		"oAP": "\/public\/work\/cashback-plus\/index.php",
 		"oF": 0
 		},
-	"\/public\/work\/change-inc\/images\/Home.jpg": {
+	"\/public\/work\/change-inc\/images\/brand-deck.jpg": {
 		"ft": 16384,
-		"iS": 742826,
+		"iS": 980562,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/work\/change-inc\/images\/Home.jpg",
+		"oAP": "\/public\/work\/change-inc\/images\/brand-deck.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/images\/gallery-long.jpg": {
+		"ft": 16384,
+		"iS": 1118671,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/gallery-long.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/images\/gallery.jpg": {
+		"ft": 16384,
+		"iS": 654391,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/gallery.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/images\/home.jpg": {
+		"ft": 16384,
+		"iS": 712422,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/images\/publications.jpg": {
+		"ft": 16384,
+		"iS": 794247,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/publications.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/images\/responsive.jpg": {
+		"ft": 16384,
+		"iS": 71293,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/responsive.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/images\/type-scale.jpg": {
+		"ft": 16384,
+		"iS": 542030,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/type-scale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/change-inc\/images\/Video.jpg": {
+		"ft": 16384,
+		"iS": 574564,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/change-inc\/images\/video.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1413,7 +1511,7 @@
 		},
 	"\/public\/work\/change-inc\/images\/what-is-change-inc.jpg": {
 		"ft": 16384,
-		"iS": 165959,
+		"iS": 153136,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/public\/work\/change-inc\/images\/what-is-change-inc.jpg",
@@ -1427,6 +1525,27 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/change-inc\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/change-inc\/video\/Responsive.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/change-inc\/video\/Responsive.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/change-inc\/video\/Responsive.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/change-inc\/video\/Responsive.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/change-inc\/video\/Responsive.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/work\/change-inc\/video\/Responsive.webm",
 		"oF": 0
 		},
 	"\/public\/work\/change-inc\/video\/what-is-change-inc.mp4": {

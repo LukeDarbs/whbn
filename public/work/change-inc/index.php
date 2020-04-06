@@ -48,19 +48,19 @@ include("posts.php");
 							</video>
 						</li>
 						<li>
-							<img src="images/home-hero-and-footer.jpg" alt="Destination hero and footer in the Virgin Holidays app" />
+							<img src="images/video.jpg" alt="Video hero" />
 						</li>
 						<li>
-							<img src="images/loading-state.gif" alt="Holiday timeline loading state in the Virgin Holidays app" />
+							<img src="images/type-scale.jpg" alt="100% fluid-scaling type scales " />
 						</li>
 						<li>
-							<img src="images/making-of-1.jpg" alt="Scoping the app features against the customer journey" />
+							<img src="images/gallery-long.jpg" alt="Image gallery for photo-journalism" />
 						</li>
 						<li>
-							<img src="images/making-of-2.jpg" alt="Sketching potential propositions for the Virgin Holidays app" />
+							<img src="images/publications.jpg" alt="Researching premium editorial publications" />
 						</li>
 						<li>
-							<img src="images/making-of-3.jpg" alt="Sketching MVP designs for the Virgin Holidays app" />
+							<img src="images/brand-deck.jpg" alt="Defining the brand personality" />
 						</li>
 					</ul>
 
@@ -73,12 +73,12 @@ include("posts.php");
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
 					<p>Nothing less than a brand-new publishing platform for this ambitious (controversial) purpose-driven initiative from Vice.
-            Can you really persuade corporations to take responsibility for the social problems they cause?</p>
-          <p>The superlative <a href="">James Gilyead</a> and I led the design direction for a stripped-back, beautifully scaling design system
-             to let the varied content shine. Driven by near impossible timelines, we defined type, layout and brand direction from
-            a tech performance perspective to minimise handover and start sweating the details in build as soon as possible. This helped
-            all streams work at full pace from the start to craft a beautiful marriage of design and tech that’s ready to support
-            Change&nbsp;Incorporated’s world-changing vision.
+            Can you really persuade corporations to take responsibility for the societal problems they cause?</p>
+          <p>The superlative <a href="https://twitter.com/j98" target="_blank" title="Open James’s Twitter feed in a new tab" >James Gilyead</a>
+						and I led the design direction for a stripped-back, beautifully scaling design system to let the varied content shine.
+						Driven by near impossible timelines, we defined type, layout and brand direction from a tech performance perspective
+						to minimise handover and start sweating the details in build as soon as possible. This helped all streams work at full pace
+						from the start to craft a beautiful marriage of design and tech that’s ready to support Change&nbsp;Incorporated’s world-changing vision.
 				</div>
 
 			</div>

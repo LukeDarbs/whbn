@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
 <?php
-=======
- <?php
->>>>>>> Stashed changes
 
 set_include_path( "../../inc/" );
 

@@ -26,10 +26,8 @@
 		</title>
 
 		<!-- Fonts -->
-		<!-- <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300' rel='stylesheet' type='text/css'> -->
-		<link href='http://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
-		<!-- <link href='http://fonts.googleapis.com/css?family=Muli:300' rel='stylesheet' type='text/css'> -->
+		<link href='https://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
 
 		<!-- Core CSS -->
 		<link href="<?php echo $site_root; ?>css/idic.css" rel="stylesheet">
