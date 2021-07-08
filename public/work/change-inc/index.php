@@ -14,7 +14,7 @@ include("posts.php");
 
 	$this_post = $post_info['change_inc'];
 
-	$prev_post = $post_info['nba_payback'];
+	$prev_post = $post_info['lego_klik'];
 	$next_post = $post_info['virgin_holidays'];
 
 ?>

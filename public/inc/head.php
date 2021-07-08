@@ -18,7 +18,7 @@
 				$title .= " " . $this_post['subtitle'];
 			}
 
-			$title .= " by Luke Darbyshire";
+			$title .= " – Luke Darbyshire design";
 
 			echo $title;
 

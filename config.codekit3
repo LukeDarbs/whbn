@@ -1461,12 +1461,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/work\/change-inc\/images\/home.jpg": {
+	"\/public\/work\/change-inc\/images\/Home.jpg": {
 		"ft": 16384,
 		"iS": 712422,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/public\/work\/change-inc\/images\/home.jpg",
+		"oAP": "\/public\/work\/change-inc\/images\/Home.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1574,6 +1574,148 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/change-inc\/video\/what-is-change-inc.webm",
+		"oF": 0
+		},
+	"\/public\/work\/content-by-design\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/dove-only\/images\/article-mobile.jpg": {
+		"ft": 16384,
+		"iS": 108155,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/article-mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/images\/home-desktop.gif": {
+		"ft": 4194304,
+		"iS": 5452723,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/home-desktop.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/work\/dove-only\/images\/home-desktop.jpg": {
+		"ft": 16384,
+		"iS": 73190,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/home-desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/images\/hub-desktop.jpg": {
+		"ft": 16384,
+		"iS": 97064,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/hub-desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/images\/product-detail-page-mobile.jpg": {
+		"ft": 16384,
+		"iS": 61536,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/product-detail-page-mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/images\/product-detail-page-tablet.jpg": {
+		"ft": 16384,
+		"iS": 36559,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/product-detail-page-tablet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/images\/product-landing-page-tablet.jpg": {
+		"ft": 16384,
+		"iS": 68340,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/product-landing-page-tablet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/images\/work-life-1.jpg": {
+		"ft": 16384,
+		"iS": 113049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/work-life-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/images\/work-life-2.jpg": {
+		"ft": 16384,
+		"iS": 102460,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/work-life-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/images\/work-life-3.jpg": {
+		"ft": 16384,
+		"iS": 137304,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/images\/work-life-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove-only\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/dove-only\/video\/dove-home-page-desktop.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/video\/dove-home-page-desktop.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/dove-only\/video\/dove-home-page-desktop.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/video\/dove-home-page-desktop.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/dove-only\/video\/dove-home-page-desktop.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove-only\/video\/dove-home-page-desktop.webm",
 		"oF": 0
 		},
 	"\/public\/work\/dove\/images\/article-mobile.jpg": {
@@ -1756,6 +1898,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/lego-klik\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/index.php",
 		"oF": 0
 		},
 	"\/public\/work\/microsoft-calendar\/images\/calendar-face-on.jpg": {
@@ -2173,6 +2322,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/reward-brand\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/index.php",
 		"oF": 0
 		},
 	"\/public\/work\/virgin-holidays\/images\/destination-heroes-in-progress.jpg": {

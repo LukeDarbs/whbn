@@ -133,14 +133,24 @@ $post_info = array
 					'title' => "Penny for London",
 					'parent_menu_id' => 2
 					),
+				// Previous – Before merge with Baby Dove
+				"dove-only" => array
+					(
+					'id' => 2111,
+					'post_name' => "dove-only",
+					'post_url' => "work/dove-only",
+					'description' => "Dove global website.",
+					'title' => "Dove",
+					'parent_menu_id' => 2
+					),
 
 				"dove" => array
 					(
 					'id' => 211,
 					'post_name' => "dove",
 					'post_url' => "work/dove",
-					'description' => "Dove global website.",
-					'title' => "Dove",
+					'description' => "Dove and Baby Dove global websites.",
+					'title' => "Dove and Baby Dove",
 					'parent_menu_id' => 2
 					),
 
@@ -191,6 +201,36 @@ $post_info = array
 					'post_url' => "work/change-inc",
 					'description' => "Design lead for a brand new publishing platform from Vice.",
 					'title' => "Change Incorporated",
+					'parent_menu_id' => 2
+					),
+
+				"lego_klik" => array
+					(
+					'id' => 220,
+					'post_name' => "lego-klik",
+					'post_url' => "work/lego-klik",
+					'description' => "Digital design lead for a brand new design system, for LEGO.",
+					'title' => "LEGO Klik",
+					'parent_menu_id' => 2
+					),
+
+				"content_by_design" => array
+					(
+					'id' => 221,
+					'post_name' => "content-by-design",
+					'post_url' => "work/content-by-design",
+					'description' => "Brand, website and comms design for a brand new conference.",
+					'title' => "Content by Design",
+					'parent_menu_id' => 2
+					),
+
+				"ux_fest" => array
+					(
+					'id' => 222,
+					'post_name' => "ux-fest",
+					'post_url' => "work/ux-fest",
+					'description' => "Brand, website and comms design for a new virtual conference.",
+					'title' => "UX Fest 2021",
 					'parent_menu_id' => 2
 					),
 

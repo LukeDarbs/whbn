@@ -8,13 +8,13 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['penny_for_london'];
 
-	$prev_post = $post_info['baby_dove'];
+	$prev_post = $post_info['content_by_design'];
 	$next_post = $post_info['reward_brand'];
 
 ?>
@@ -61,9 +61,9 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> Mobile-first wasn’t just a buzzword for the Mayor’s Fund for London: 
-						from UX, through prototyping and into the visual design, our focus was 
-						to deliver ease and simplicity to Londoners on the move, helping to 
+					<p> Mobile-first wasn’t just a buzzword for the Mayor’s Fund for London:
+						from UX, through prototyping and into the visual design, our focus was
+						to deliver ease and simplicity to Londoners on the move, helping to
 						make the micro-donation programme as successful as possible for a worthy cause.
 				</div>
 
@@ -76,5 +76,3 @@ include("posts.php");
 
 <?php include("footer.php"); ?>
 <?php include("end.php"); ?>
-
-

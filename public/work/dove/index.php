@@ -14,8 +14,8 @@ include("posts.php");
 
 	$this_post = $post_info['dove'];
 
-	$prev_post = $post_info['virgin_holidays'];
-	$next_post = $post_info['baby_dove'];
+	$prev_post = $post_info['ux_fest'];
+	$next_post = $post_info['content_by_design'];
 
 ?>
 
@@ -74,11 +74,15 @@ include("posts.php");
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
 					<p> This project was transformative for the much-loved Real Beauty brand.
-					As the foundation of a new platform for Unilever, we had the freedom to
-					bring the brand DNA to life in digital. We crafted every detail of visual balance,
-					animation and language to complement the premium qualities of the products and
-					Dove’s mission for Real Beauty. All-in-all, a result that surprised and delighted
-					the client in light of the ‘impossible timeline’.
+						We brought the tactile brand DNA to life in digital. We crafted every
+						detail of visual balance, animation and language to complement the premium
+						qualities of the products and Dove’s mission for Real Beauty. All-in-all,
+						a result that surprised and delighted the client in light of the ‘impossible timeline’.
+
+					<p>For their beloved Baby, Dove needed an ownable aesthetic that stayed familiar to
+						the main brand and website experience. Leading the creative and guiding the build,
+						I worked closely with the client to deliver the right balance in time for
+						launches in Asia and South America.
 				</div>
 
 			</div>

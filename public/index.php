@@ -1,6 +1,6 @@
 <?php
 
-header("Location: work/virgin-holidays/");
+header("Location: work/lego-klik/");
 die();
 
 ?>

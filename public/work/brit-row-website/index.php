@@ -8,14 +8,14 @@ include("posts.php");
 
 ?>
 
-<?php 
-	
-	// Post variables 
+<?php
+
+	// Post variables
 
 	$this_post = $post_info['brit_row_website'];
 
-	$prev_post = $post_info['cashback_plus'];
-	$next_post = $post_info['mountain_tracks_brochures'];
+	$prev_post = $post_info['reward_brand'];
+	$next_post = $post_info['lego_klik'];
 
 ?>
 
@@ -58,9 +58,9 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> A website for audio hire professionals doesn't have to be a boring kit-list, 
-						especially if you're the best in the UK. For the Wordpress powered site, we told 
-						the story using images of the world famous acts they work with and dynamic visualisations 
+					<p> A website for audio hire professionals doesn't have to be a boring kit-list,
+						especially if you're the best in the UK. For the Wordpress powered site, we told
+						the story using images of the world famous acts they work with and dynamic visualisations
 						to show the breadth of different project types they manage concurrently.</p>
 					<p> Built in collaboration with the talented <a href="http://antonywalton.com/" target="_blank" title="Antony Walton, Web and graphic designer" >Mr.&nbsp;Walton</a>.</p>
 				</div>
@@ -74,5 +74,3 @@ include("posts.php");
 
 <?php include("footer.php"); ?>
 <?php include("end.php"); ?>
-
-
