@@ -12,7 +12,7 @@ include("posts.php");
 
 	// Post variables
 
-	$this_post = $post_info['lego-klik'];
+	$this_post = $post_info['lego_klik'];
 
 	$prev_post = $post_info['brit_row_website'];
 	$next_post = $post_info['change_inc'];
