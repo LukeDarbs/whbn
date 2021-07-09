@@ -55,6 +55,21 @@ include("posts.php");
 							<img src="images/article-mobile.jpg" alt="Dove article page design" />
 						</li>
 						<li>
+							<img src="images/baby-dove/home-page.jpg" alt="Baby Dove home page design" />
+						</li>
+						<li>
+							<img src="images/baby-dove/product-landing-page.jpg" alt="Baby Dove product landing page design" />
+						</li>
+						<!-- <li>
+							<img src="images/baby-dove/product-detail-page.jpg" alt="Baby Dove product detail page design" />
+						</li> -->
+						<li>
+							<img src="images/baby-dove/article-page.jpg" alt="Baby Dove article page design" />
+						</li>
+						<!-- <li>
+							<img src="images/baby-dove/client-facing.jpg" alt="Baby Dove close client relationship" />
+						</li> -->
+						<li>
 							<img src="images/work-life-1.jpg" alt="Dove brand DNA to digital mood-boards" />
 						</li>
 						<li>
