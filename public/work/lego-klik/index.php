@@ -74,9 +74,17 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p>A brand new design system for everyone’s favourite design system. Ironically, a vital first step was
-						to create a compelling brand and story to explain internally at LEGO how a design system could
-						help them work well and create better digital experiences faster.
+					<p>Working with <a href="https://unitedus.co.uk/" target="_blank" title="UnitedUs – brand agency extraordinaire" >UnitedUs</a>,
+						I led the product design for Klik: a brand new design system for everyone’s favourite design system.</p>
+					<p>Ironically, our first step was to create a compelling brand and story to explain internally how a design system could help
+						LEGO work well and create better digital experiences for their 20,000+ employees. As the brand teaser and proof-of-concept
+						started to excite key stakeholders, we were free to work on the system in earnest.</p>
+					<p>LEGO has thousands of web sites and apps so they came ready with a long shopping list for what the system should include.
+						We chose Figma so we could work closely and seamlessly with the excellent internal UX team despite the pandemic keeping us
+						spread across the continent. We really sweat the details to design and build components to be flexible, intuitive and robust
+						for end users. Our visual and interaction principles helped to make sure the LEGO DNA was part of every component.
+						<p>Using Klik, LEGO teams can now design, prototype and build sites and apps much more quickly than before. Even better –
+							they know that a Klik experience will work well and be unmistakably LEGO.</p>
 				</div>
 
 			</div>

@@ -73,11 +73,12 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> Reward came-of-age during my time there. Our huge rebrand and new website was a big,
-					bold statement of intent and completely changed the way the startup was seen by clients and staff.
-					The comprehensive brand manual empowered the growing team to send the Reward message clearly and
-					consistently. In the words of our COO: “Our presentations look shit-hot now.”</p>
-					<p> Designed in collaboration with the excellent <a href="http://www.joncgregory.co.uk/" target="_blank" title="Jon Gregory, Graphic Designer" >Jon&nbsp;Gregory</a>.</p>
+					<p>Reward came-of-age during my time there. As the lead designer for the internal team,
+						I worked in collaboration with the excellent <a href="http://www.joncgregory.co.uk/" target="_blank" title="Jon Gregory, Graphic Designer" >Jon&nbsp;Gregory</a>.</p>
+					<p>Our huge rebrand and new website was a big, bold statement of intent and completely
+						changed the way the startup was seen by clients and staff. The comprehensive brand
+						manual empowered the growing team to send the Reward message clearly and consistently.
+						In the words of our COO: <em>“Our presentations look shit-hot now”</em>.</p>
 				</div>
 
 			</div>

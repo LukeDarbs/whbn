@@ -39,9 +39,6 @@ include("posts.php");
 							</video>
 						</li>
 						<li>
-							<img src="images/hero-words.jpg" alt="Conference venue details" />
-						</li>
-						<li>
 							<img src="images/venue.jpg" alt="Conference venue details" />
 						</li>
 						<li>
@@ -63,9 +60,11 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> The process – Hand-in-hand with content and dev. I led the design.
-						Making the copy the hero. Variable font animations. With Clearleft.
-
+					<p>Working with <a href="https://clearleft.com/" target="_blank" title="Clearleft – Original UX masters" >Clearleft</a>
+						for another new conference, I led the design across the branding, website, socials and more. For an event celebrating
+						great content, we put the words at the heart of the experience, emphasised with animated variable fonts. The visual
+						direction was designed to give the conference team a wide toolkit of assets to unify the website, socials and the
+						event itself. </p>
 				</div>
 
 			</div>

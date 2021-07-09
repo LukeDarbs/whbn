@@ -61,7 +61,12 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> Playful and expressive direction – a celebratory UX conference for the people.
+					<p>I led the design for UX&nbsp;Fest taking the parent UX&nbsp;London brand as a foundation to create a visual direction
+						that was playful, expressive and celebratory. Animation played a big part in setting the tone on the website
+						and visual stings during the talks for the online conference.</p>
+					<p>I’ve really enjoyed working with <a href="https://clearleft.com/" target="_blank" title="Clearleft – Original UX masters" >Clearleft</a>
+						on a few conference projects, especially the process of finding the right visual language for the brand,
+						website and comms in a short timeframe.</p>
 				</div>
 
 			</div>

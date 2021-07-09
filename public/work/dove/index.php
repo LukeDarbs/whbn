@@ -73,16 +73,12 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p> This project was transformative for the much-loved Real Beauty brand.
-						We brought the tactile brand DNA to life in digital. We crafted every
-						detail of visual balance, animation and language to complement the premium
-						qualities of the products and Dove’s mission for Real Beauty. All-in-all,
-						a result that surprised and delighted the client in light of the ‘impossible timeline’.
-
-					<p>For their beloved Baby, Dove needed an ownable aesthetic that stayed familiar to
-						the main brand and website experience. Leading the creative and guiding the build,
-						I worked closely with the client to deliver the right balance in time for
-						launches in Asia and South America.
+					<p>I worked with <a href="https://www.publicissapient.com/" target="_blank" title="PublicisSapient – digital transformation masters" >Sapient</a>
+						on this transformative project for the much-loved Real Beauty brand. We brought the tactile brand DNA to life in digital.
+						We crafted every detail of visual balance, animation and language to complement the premium qualities of the products and
+						Dove’s mission for Real Beauty. All-in-all, a result that surprised and delighted the client in light of the ‘impossible timeline’.</p>
+					<p>I led the design for Baby&nbsp;Dove, staying true to the core of the main brand and website but with a distinctly Baby aesthetic.
+						I worked closely with the client and helped guide the build to deliver the right balance in time for launches in Asia and South America.<p>
 				</div>
 
 			</div>
