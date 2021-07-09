@@ -1569,11 +1569,87 @@
 		"oAP": "\/public\/work\/change-inc\/video\/what-is-change-inc.webm",
 		"oF": 0
 		},
+	"\/public\/work\/content-by-design\/images\/hero-words.jpg": {
+		"ft": 16384,
+		"iS": 862190,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/images\/hero-words.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/content-by-design\/images\/instagram-story.jpg": {
+		"ft": 16384,
+		"iS": 1051743,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/images\/instagram-story.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/content-by-design\/images\/themes.jpg": {
+		"ft": 16384,
+		"iS": 815885,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/images\/themes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/content-by-design\/images\/tickets.jpg": {
+		"ft": 16384,
+		"iS": 505020,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/images\/tickets.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/content-by-design\/images\/venue.jpg": {
+		"ft": 16384,
+		"iS": 886803,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/images\/venue.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/work\/content-by-design\/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/content-by-design\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/content-by-design\/video\/hero-words.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/video\/hero-words.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/content-by-design\/video\/hero-words.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/video\/hero-words.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/content-by-design\/video\/hero-words.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/content-by-design\/video\/hero-words.webm",
 		"oF": 0
 		},
 	"\/public\/work\/dove-only\/images\/article-mobile.jpg": {

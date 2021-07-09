@@ -28,30 +28,32 @@ include("posts.php");
 			<div class="gallery">
 
 				<div class="gallery-width">
-<!-- 
+
 					<ul>
 						<li>
-							<img src="images/landing.jpg" alt="Penny for London landing page" />
+              <video poster="images/hero-words.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline >
+								<source src="video/hero-words.mp4" type="video/mp4" />
+								<source src="video/hero-words.webm" type="video/webm" />
+								<source src="video/hero-words.ogv" type="video/ogg" />
+								<p>Hero words with animated variable type</p>
+							</video>
 						</li>
 						<li>
-							<img src="images/registration.jpg" alt="Penny for London sign-up journey" />
+							<img src="images/hero-words.jpg" alt="Conference venue details" />
 						</li>
 						<li>
-							<img src="images/welcome.jpg" alt="Penny for London welcome page" />
+							<img src="images/venue.jpg" alt="Conference venue details" />
 						</li>
 						<li>
-							<img src="images/projects.jpg" alt="Penny for London charity projects page" />
+							<img src="images/instagram-story.jpg" alt="Instagram story for Content by Design conference" />
 						</li>
 						<li>
-							<img src="images/responsive-workings.jpg" alt="Penny for London responsive grid workings" />
+							<img src="images/tickets.jpg" alt="Tickets button with hover animation" />
 						</li>
 						<li>
-							<img src="images/ux-1.jpg" alt="Penny for London paper-prototyping" />
+							<img src="images/themes.jpg" alt="Early visual direction exploration" />
 						</li>
-						<li>
-							<img src="images/ux-2.jpg" alt="Penny for London UX design process" />
-						</li>
-					</ul> -->
+					</ul>
 
 				</div>
 
