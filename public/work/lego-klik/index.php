@@ -28,17 +28,17 @@ include("posts.php");
 			<div class="gallery">
 
 				<div class="gallery-width">
-<!--
+
 					<ul>
 						<li>
-							<video poster="images/virgin-holidays-app.jpg" width="100% !important" height="auto 100% !important" muted autoplay controls playsinline >
-								<source src="video/virgin-holidays-app.mp4" type="video/mp4" />
-								<source src="video/virgin-holidays-app.webm" type="video/webm" />
-								<source src="video/virgin-holidays-app.ogv" type="video/ogg" />
-								<p>Virgin Holidays app</p>
+							<video poster="images/lego-klik-teaser.jpg" width="100% !important" height="auto 100% !important" muted autoplay controls playsinline >
+								<source src="video/lego-klik-teaser.mp4" type="video/mp4" />
+								<source src="video/lego-klik-teaser.webm" type="video/webm" />
+								<source src="video/lego-klik-teaser.ogv" type="video/ogg" />
+								<p>LEGO Klik teaser</p>
 							</video>
 						</li>
-						<li>
+<!--						<li>
 							<img src="images/flight-and-hotel-mobile.jpg" alt="Flight details and hotel details in the Virgin Holidays app" />
 						</li>
 						<li style="padding: 12%;">
@@ -63,8 +63,8 @@ include("posts.php");
 						</li>
 						<li>
 							<img src="images/making-of-3.jpg" alt="Sketching MVP designs for the Virgin Holidays app" />
-						</li>
-					</ul> -->
+						</li> -->
+					</ul>
 
 				</div>
 
