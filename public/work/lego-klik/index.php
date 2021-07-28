@@ -30,12 +30,20 @@ include("posts.php");
 				<div class="gallery-width">
 
 					<ul>
-						<li>
+						<!-- <li>
 							<video poster="images/lego-klik-teaser.jpg" width="100% !important" height="auto 100% !important" muted autoplay controls playsinline >
 								<source src="video/lego-klik-teaser.mp4" type="video/mp4" />
 								<source src="video/lego-klik-teaser.webm" type="video/webm" />
 								<source src="video/lego-klik-teaser.ogv" type="video/ogg" />
 								<p>LEGO Klik teaser</p>
+							</video>
+						</li> -->
+						<li>
+							<video poster="images/lego-klik-intro.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline >
+								<source src="video/lego-klik-intro.mp4" type="video/mp4" />
+								<source src="video/lego-klik-intro.webm" type="video/webm" />
+								<source src="video/lego-klik-intro.ogv" type="video/ogg" />
+								<p>LEGO Klik intro</p>
 							</video>
 						</li>
 <!--						<li>
