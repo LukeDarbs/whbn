@@ -46,18 +46,24 @@ include("posts.php");
 								<p>LEGO Klik intro</p>
 							</video>
 						</li>
-<!--						<li>
-							<img src="images/flight-and-hotel-mobile.jpg" alt="Flight details and hotel details in the Virgin Holidays app" />
-						</li>
-						<li style="padding: 12%;">
-							<video poster="images/destination-heroes.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline >
-								<source src="video/destination-heroes.mp4" type="video/mp4" />
-								<source src="video/destination-heroes.webm" type="video/webm" />
-								<source src="video/destination-heroes.ogv" type="video/ogg" />
-								<p>Destination hero images</p>
-							</video>
+						<li>
+							<img src="images/klik-branding-montage.jpg" alt="A snapshot of the branding designed to promote Klik within LEGO" />
 						</li>
 						<li>
+							<img src="images/components-and-ui.jpg" alt="An example of Klik’s Figma components for UI design and development" />
+						</li>
+						<li>
+							<img src="images/apps-collection-figma.jpg" alt="Some example LEGO apps and products designed using the Klik design system" />
+						</li>
+						<li>
+							<video poster="images/splash-screen.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline >
+								<source src="video/splash-screen.mp4" type="video/mp4" />
+								<source src="video/splash-screen.webm" type="video/webm" />
+								<source src="video/splash-screen.ogv" type="video/ogg" />
+								<p>An example ‘signature moment’ loading screen</p>
+							</video>
+						</li>
+<!--						<li>
 							<img src="images/home-hero-and-footer.jpg" alt="Destination hero and footer in the Virgin Holidays app" />
 						</li>
 						<li>
