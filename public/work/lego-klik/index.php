@@ -63,21 +63,21 @@ include("posts.php");
 								<p>An example ‘signature moment’ loading screen</p>
 							</video>
 						</li>
-<!--						<li>
-							<img src="images/home-hero-and-footer.jpg" alt="Destination hero and footer in the Virgin Holidays app" />
+						<li>
+							<img src="images/klik-screen-builder.jpg" alt="Different screens designed using the Klik system" />
 						</li>
 						<li>
-							<img src="images/loading-state.gif" alt="Holiday timeline loading state in the Virgin Holidays app" />
+							<img src="images/klik-system-principles.gif" alt="The guiding principles of designing for and with the Klik system" />
 						</li>
 						<li>
-							<img src="images/making-of-1.jpg" alt="Scoping the app features against the customer journey" />
-						</li>
-						<li>
-							<img src="images/making-of-2.jpg" alt="Sketching potential propositions for the Virgin Holidays app" />
+							<img src="images/signature-background.jpg" alt="A signature moment illustration as the background for a log in screen" />
 						</li>
 						<li>
 							<img src="images/making-of-3.jpg" alt="Sketching MVP designs for the Virgin Holidays app" />
-						</li> -->
+						</li>
+						<li>
+							<img src="images/klik-guidelines.jpg" alt="An example of the guidelines for a Klik component" />
+						</li>
 					</ul>
 
 				</div>
