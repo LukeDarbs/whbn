@@ -31,9 +31,9 @@ include("posts.php");
 
 					<ul>
 						<li>
-              <video poster="images/hero-words.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline >
+              <video poster="images/hero-words.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
+							<source src="video/hero-words.webm" type="video/webm" />
 								<source src="video/hero-words.mp4" type="video/mp4" />
-								<source src="video/hero-words.webm" type="video/webm" />
 								<source src="video/hero-words.ogv" type="video/ogg" />
 								<p>Hero words with animated variable type</p>
 							</video>
@@ -61,7 +61,8 @@ include("posts.php");
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
 					<p>Working with <a href="https://clearleft.com/" target="_blank" title="Clearleft – Original UX masters" >Clearleft</a>
-						for another new conference, I led the design across the branding, website, socials and more. For an event celebrating
+						for another new conference, <a href="https://2021.contentbydesign.org/" target="_blank" title="Content by Design – A conference for anyone who creates product content" >Content by Design</a> – 
+						I led the design across the branding, website, socials and more. For an event celebrating
 						great content, we put the words at the heart of the experience, emphasised with animated variable fonts. The visual
 						direction was designed to give the conference team a wide toolkit of assets to unify the website, socials and the
 						event itself. </p>

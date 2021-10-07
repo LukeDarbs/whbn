@@ -28,30 +28,54 @@ include("posts.php");
 			<div class="gallery">
 
 				<div class="gallery-width">
-<!--
+
 					<ul>
 						<li>
-							<img src="images/landing.jpg" alt="Penny for London landing page" />
+							<!-- <img src="images/ux-fest-hero-intro.jpg" alt="UX Fest landing page" /> -->
+							<video poster="images/ux-fest-hero-intro.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
+								<source src="video/ux-fest-hero-intro.mp4" type="video/mp4" />
+								<source src="video/ux-fest-hero-intro.webm" type="video/webm" />
+								<source src="video/ux-fest-hero-intro.ogv" type="video/ogg" />
+								<p>UX Fest landing page</p>
+							</video>
 						</li>
 						<li>
-							<img src="images/registration.jpg" alt="Penny for London sign-up journey" />
+							<!-- <img src="images/insta-launch-story.jpg" alt="UX Fest landing page" /> -->
+							<video poster="images/insta-launch-story.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
+							<source src="video/insta-launch-story.webm" type="video/webm" />
+								<source src="video/insta-launch-story.mp4" type="video/mp4" />
+								<source src="video/insta-launch-story.ogv" type="video/ogg" />
+								<p>Instagram story to announce UX Fest launch</p>
+							</video>
 						</li>
 						<li>
-							<img src="images/welcome.jpg" alt="Penny for London welcome page" />
+							<img src="images/whats-on.jpg" alt="UX Fest schedule on website" />
 						</li>
 						<li>
-							<img src="images/projects.jpg" alt="Penny for London charity projects page" />
+							<!-- <img src="images/speakers-list.jpg" alt="UX Fest landing page" /> -->
+							<video poster="images/speakers-list.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
+							<source src="video/speakers-list.webm" type="video/webm" />
+								<source src="video/speakers-list.mp4" type="video/mp4" />
+								<source src="video/speakers-list.ogv" type="video/ogg" />
+								<p>List of speakers at UX Fest</p>
+							</video>
 						</li>
 						<li>
-							<img src="images/responsive-workings.jpg" alt="Penny for London responsive grid workings" />
+							<!-- <img src="images/speakers-list.jpg" alt="UX Fest landing page" /> -->
+							<video poster="images/tickets-button.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
+								<source src="video/tickets-button.mp4" type="video/mp4" />
+							<source src="video/tickets-button.webm" type="video/webm" />
+								<source src="video/tickets-button.ogv" type="video/ogg" />
+								<p>Big button confetti</p>
+							</video>
 						</li>
 						<li>
-							<img src="images/ux-1.jpg" alt="Penny for London paper-prototyping" />
+							<img src="images/tickets-button.gif" alt="Big button confetti" />
 						</li>
 						<li>
-							<img src="images/ux-2.jpg" alt="Penny for London UX design process" />
+							<img src="images/ux-fest-exploration.jpg" alt="Exploration for UX Fest visual direction" />
 						</li>
-					</ul> -->
+					</ul>
 
 				</div>
 
@@ -61,7 +85,8 @@ include("posts.php");
 
 				<div class="description">
 					<h1><?php echo $this_post['title']; ?></h1>
-					<p>I led the design for UX&nbsp;Fest taking the parent UX&nbsp;London brand as a foundation to create a visual direction
+					<p>I led the design for <a href="https://2021.uxlondon.com/" target="_blank" title="UX Fest – a three-day online conference celebrating interaction and product design" >UX&nbsp;Fest</a>
+						taking the parent UX&nbsp;London brand as a foundation to create a new visual direction
 						that was playful, expressive and celebratory. Animation played a big part in setting the tone on the website
 						and visual stings during the talks for the online conference.</p>
 					<p>I’ve really enjoyed working with <a href="https://clearleft.com/" target="_blank" title="Clearleft – Original UX masters" >Clearleft</a>

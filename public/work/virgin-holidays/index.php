@@ -32,7 +32,7 @@ include("posts.php");
 					<ul>
 						<li>
 							<!-- <img src="images/virgin-holidays-app.jpg" alt="Virgin Holidays app" /> -->
-							<video poster="images/virgin-holidays-app.jpg" width="100% !important" height="auto 100% !important" muted autoplay controls playsinline >
+							<video poster="images/virgin-holidays-app.jpg" width="100% !important" height="auto 100% !important" muted autoplay playsinline preload="auto" >
 								<source src="video/virgin-holidays-app.mp4" type="video/mp4" />
 								<source src="video/virgin-holidays-app.webm" type="video/webm" />
 								<source src="video/virgin-holidays-app.ogv" type="video/ogg" />
