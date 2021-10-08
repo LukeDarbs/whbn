@@ -70,9 +70,6 @@ include("posts.php");
 							</video>
 						</li>
 						<li>
-							<img src="images/tickets-button.gif" alt="Big button confetti" />
-						</li>
-						<li>
 							<img src="images/ux-fest-exploration.jpg" alt="Exploration for UX Fest visual direction" />
 						</li>
 					</ul>

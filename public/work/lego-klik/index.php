@@ -39,9 +39,9 @@ include("posts.php");
 							</video>
 						</li> -->
 						<li>
-							<video poster="images/lego-klik-intro.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline >
+							<video poster="images/lego-klik-intro.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
+							<source src="video/lego-klik-intro.webm" type="video/webm" />
 								<source src="video/lego-klik-intro.mp4" type="video/mp4" />
-								<source src="video/lego-klik-intro.webm" type="video/webm" />
 								<source src="video/lego-klik-intro.ogv" type="video/ogg" />
 								<p>LEGO Klik intro</p>
 							</video>
@@ -64,13 +64,23 @@ include("posts.php");
 							</video>
 						</li>
 						<li>
-							<img src="images/klik-screen-builder.jpg" alt="Different screens designed using the Klik system" />
+							<video poster="images/klik-screen-builder.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
+								<source src="video/klik-screen-builder.mp4" type="video/mp4" />
+								<source src="video/klik-screen-builder.webm" type="video/webm" />
+								<source src="video/klik-screen-builder.ogv" type="video/ogg" />
+								<p>Different screens designed using the Klik system</p>
+							</video>
 						</li>
 						<li>
 							<img src="images/klik-system-principles.gif" alt="The guiding principles of designing for and with the Klik system" />
 						</li>
 						<li>
-							<img src="images/signature-background.jpg" alt="A signature moment illustration as the background for a log in screen" />
+							<video poster="images/signature-background.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
+								<source src="video/signature-background.mp4" type="video/mp4" />
+								<source src="video/signature-background.webm" type="video/webm" />
+								<source src="video/signature-background.ogv" type="video/ogg" />
+								<p>A Klik signature animated illustration</p>
+							</video>
 						</li>
 						<li>
 							<img src="images/icons-in-motion.gif" alt="Animated icons to bring life to selected interactions" />
