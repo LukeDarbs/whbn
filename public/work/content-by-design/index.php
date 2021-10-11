@@ -25,9 +25,7 @@ include("posts.php");
 
 		<article class="container">
 
-			<div class="gallery">
-
-				<div class="gallery-width">
+			<div class="gallery-new">
 
 					<ul>
 						<li>
@@ -37,6 +35,15 @@ include("posts.php");
 								<source src="video/hero-words.ogv" type="video/ogg" />
 								<p>Hero words with animated variable type</p>
 							</video>
+						</li>
+						<li class="intro-1-col">
+							<h1><?php echo $this_post['title']; ?></h1>
+							<p>Working with <a href="https://clearleft.com/" target="_blank" title="Clearleft – Original UX masters" >Clearleft</a>
+								for another new conference, <a href="https://2021.contentbydesign.org/" target="_blank" title="Content by Design – A conference for anyone who creates product content" >Content by Design</a>.</p>
+							<p>I led the design across the branding, website, socials and more. For an event celebrating
+								great content, we put the words at the heart of the experience, emphasised with animated variable fonts. The visual
+								direction was designed to give the conference team a wide toolkit of assets to unify the website, socials and the
+								event itself. </p>
 						</li>
 						<li>
 							<img src="images/venue.jpg" alt="Conference venue details" />
@@ -52,23 +59,7 @@ include("posts.php");
 						</li>
 					</ul>
 
-				</div>
-
 			</div> <!-- /.gallery -->
-
-			<div class="row">
-
-				<div class="description">
-					<h1><?php echo $this_post['title']; ?></h1>
-					<p>Working with <a href="https://clearleft.com/" target="_blank" title="Clearleft – Original UX masters" >Clearleft</a>
-						for another new conference, <a href="https://2021.contentbydesign.org/" target="_blank" title="Content by Design – A conference for anyone who creates product content" >Content by Design</a> – 
-						I led the design across the branding, website, socials and more. For an event celebrating
-						great content, we put the words at the heart of the experience, emphasised with animated variable fonts. The visual
-						direction was designed to give the conference team a wide toolkit of assets to unify the website, socials and the
-						event itself. </p>
-				</div>
-
-			</div>
 
 		</article> <!-- /.container -->
 

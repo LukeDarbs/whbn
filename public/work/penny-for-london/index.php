@@ -25,13 +25,19 @@ include("posts.php");
 
 		<article class="container">
 
-			<div class="gallery">
-
-				<div class="gallery-width">
+			<div class="gallery-new">
 
 					<ul>
 						<li>
 							<img src="images/landing.jpg" alt="Penny for London landing page" />
+						</li>
+						<li class="intro-1-col">
+							<h1><?php echo $this_post['title']; ?></h1>
+							<p>I led the design on Penny&nbsp;for&nbsp;London working for the Mayor’s Fund for London during my time at Reward.
+								Mobile-first wasn’t just a buzzword: from UX, through prototyping and into the visual design, our focus was to
+								deliver ease and simplicity to Londoners on the move, helping to make the micro-donation programme as successful
+								as possible for a worthy cause. Simplicity was the guiding word and the humble copper penny was our source our
+								colour reference and icon style.</p>
 						</li>
 						<li>
 							<img src="images/registration.jpg" alt="Penny for London sign-up journey" />
@@ -53,22 +59,7 @@ include("posts.php");
 						</li>
 					</ul>
 
-				</div>
-
 			</div> <!-- /.gallery -->
-
-			<div class="row">
-
-				<div class="description">
-					<h1><?php echo $this_post['title']; ?></h1>
-					<p>I led the design on Penny&nbsp;for&nbsp;London working for the Mayor’s Fund for London during my time at Reward.
-						Mobile-first wasn’t just a buzzword: from UX, through prototyping and into the visual design, our focus was to
-						deliver ease and simplicity to Londoners on the move, helping to make the micro-donation programme as successful
-						as possible for a worthy cause. Simplicity was the guiding word and the humble copper penny was our source our
-						colour reference and icon style.</p>
-				</div>
-
-			</div>
 
 		</article> <!-- /.container -->
 

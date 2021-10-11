@@ -1174,11 +1174,507 @@
 		"oAP": "\/public\/robots.txt",
 		"oF": 0
 		},
+	"\/public\/sneak-peek\/baby-dove\/images\/article-page.jpg": {
+		"ft": 16384,
+		"iS": 86320,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/baby-dove\/images\/article-page.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/baby-dove\/images\/client-facing.jpg": {
+		"ft": 16384,
+		"iS": 141790,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/baby-dove\/images\/client-facing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/baby-dove\/images\/home-page.jpg": {
+		"ft": 16384,
+		"iS": 75037,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/baby-dove\/images\/home-page.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/baby-dove\/images\/product-detail-page.jpg": {
+		"ft": 16384,
+		"iS": 44903,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/baby-dove\/images\/product-detail-page.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/baby-dove\/images\/product-landing-page.jpg": {
+		"ft": 16384,
+		"iS": 75193,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/baby-dove\/images\/product-landing-page.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/baby-dove\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/sneak-peek\/baby-dove\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/cashback-plus\/images\/desktop-natwest.jpg": {
+		"ft": 16384,
+		"iS": 107670,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/cashback-plus\/images\/desktop-natwest.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/cashback-plus\/images\/desktop-rbs.jpg": {
+		"ft": 16384,
+		"iS": 119831,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/cashback-plus\/images\/desktop-rbs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/cashback-plus\/images\/mobile.jpg": {
+		"ft": 16384,
+		"iS": 119290,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/cashback-plus\/images\/mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/cashback-plus\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/cashback-plus\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/article-mobile.jpg": {
+		"ft": 16384,
+		"iS": 108155,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/article-mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/home-desktop.gif": {
+		"ft": 4194304,
+		"iS": 5452723,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/home-desktop.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/home-desktop.jpg": {
+		"ft": 16384,
+		"iS": 73190,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/home-desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/hub-desktop.jpg": {
+		"ft": 16384,
+		"iS": 97064,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/hub-desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/product-detail-page-mobile.jpg": {
+		"ft": 16384,
+		"iS": 61536,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/product-detail-page-mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/product-detail-page-tablet.jpg": {
+		"ft": 16384,
+		"iS": 36559,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/product-detail-page-tablet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/product-landing-page-tablet.jpg": {
+		"ft": 16384,
+		"iS": 68340,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/product-landing-page-tablet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/work-life-1.jpg": {
+		"ft": 16384,
+		"iS": 113049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/work-life-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/work-life-2.jpg": {
+		"ft": 16384,
+		"iS": 102460,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/work-life-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/images\/work-life-3.jpg": {
+		"ft": 16384,
+		"iS": 137304,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/images\/work-life-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/dove-only\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/dove-only\/video\/dove-home-page-desktop.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/video\/dove-home-page-desktop.mp4",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/dove-only\/video\/dove-home-page-desktop.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/video\/dove-home-page-desktop.ogv",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/dove-only\/video\/dove-home-page-desktop.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/dove-only\/video\/dove-home-page-desktop.webm",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/gzba-leaflet\/images\/front.jpg": {
+		"ft": 16384,
+		"iS": 111549,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/gzba-leaflet\/images\/front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/gzba-leaflet\/images\/inside.jpg": {
+		"ft": 16384,
+		"iS": 97072,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/gzba-leaflet\/images\/inside.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/gzba-leaflet\/images\/reverse.jpg": {
+		"ft": 16384,
+		"iS": 109589,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/gzba-leaflet\/images\/reverse.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/gzba-leaflet\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/gzba-leaflet\/index.php",
+		"oF": 0
+		},
 	"\/public\/sneak-peek\/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/sneak-peek\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/microsoft-calendar\/images\/calendar-face-on.jpg": {
+		"ft": 16384,
+		"iS": 71183,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/microsoft-calendar\/images\/calendar-face-on.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/microsoft-calendar\/images\/calendar-in-situ.jpg": {
+		"ft": 16384,
+		"iS": 100704,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/microsoft-calendar\/images\/calendar-in-situ.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/microsoft-calendar\/images\/calendar-side-on.jpg": {
+		"ft": 16384,
+		"iS": 75257,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/microsoft-calendar\/images\/calendar-side-on.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/microsoft-calendar\/images\/selected-set-1.jpg": {
+		"ft": 16384,
+		"iS": 89957,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/microsoft-calendar\/images\/selected-set-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/microsoft-calendar\/images\/selected-set-2.jpg": {
+		"ft": 16384,
+		"iS": 145596,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/microsoft-calendar\/images\/selected-set-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/microsoft-calendar\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/sneak-peek\/microsoft-calendar\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/mountain-tracks-brochures\/images\/back-cover.jpg": {
+		"ft": 16384,
+		"iS": 85338,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/mountain-tracks-brochures\/images\/back-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/mountain-tracks-brochures\/images\/front-cover.jpg": {
+		"ft": 16384,
+		"iS": 98694,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/mountain-tracks-brochures\/images\/front-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/mountain-tracks-brochures\/images\/spread-intro.jpg": {
+		"ft": 16384,
+		"iS": 69851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/mountain-tracks-brochures\/images\/spread-intro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/mountain-tracks-brochures\/images\/spread-top-5.jpg": {
+		"ft": 16384,
+		"iS": 66258,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/mountain-tracks-brochures\/images\/spread-top-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/mountain-tracks-brochures\/images\/spreads-angle.jpg": {
+		"ft": 16384,
+		"iS": 100725,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/mountain-tracks-brochures\/images\/spreads-angle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/mountain-tracks-brochures\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/mountain-tracks-brochures\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/msi-c-and-w\/images\/back.jpg": {
+		"ft": 16384,
+		"iS": 50611,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/msi-c-and-w\/images\/back.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/msi-c-and-w\/images\/front.jpg": {
+		"ft": 16384,
+		"iS": 58793,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/msi-c-and-w\/images\/front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/msi-c-and-w\/images\/inside.jpg": {
+		"ft": 16384,
+		"iS": 68516,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/msi-c-and-w\/images\/inside.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/msi-c-and-w\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/msi-c-and-w\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/nationwide\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/sneak-peek\/nationwide\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/nationwide\/video\/nationwide-goals-dashboard.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/sneak-peek\/nationwide\/video\/nationwide-goals-dashboard.mp4",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/nationwide\/video\/nationwide-visual-planner.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/sneak-peek\/nationwide\/video\/nationwide-visual-planner.mp4",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/nba-payback\/images\/logo.gif": {
+		"ft": 4194304,
+		"iS": 74348,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/nba-payback\/images\/logo.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/sneak-peek\/nba-payback\/images\/scoring.gif": {
+		"ft": 4194304,
+		"iS": 129425,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/nba-payback\/images\/scoring.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/sneak-peek\/nba-payback\/images\/tablet.jpg": {
+		"ft": 16384,
+		"iS": 88839,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/nba-payback\/images\/tablet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/nba-payback\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/nba-payback\/index.php",
 		"oF": 0
 		},
 	"\/public\/sneak-peek\/santander\/images\/landing.jpg": {
@@ -1244,68 +1740,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/variables.php",
-		"oF": 0
-		},
-	"\/public\/work\/baby-dove\/images\/article-page.jpg": {
-		"ft": 16384,
-		"iS": 86320,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/article-page.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/baby-dove\/images\/client-facing.jpg": {
-		"ft": 16384,
-		"iS": 141790,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/client-facing.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/baby-dove\/images\/home-page.jpg": {
-		"ft": 16384,
-		"iS": 75037,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/home-page.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/baby-dove\/images\/product-detail-page.jpg": {
-		"ft": 16384,
-		"iS": 44903,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/product-detail-page.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/baby-dove\/images\/product-landing-page.jpg": {
-		"ft": 16384,
-		"iS": 75193,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/baby-dove\/images\/product-landing-page.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/baby-dove\/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/baby-dove\/index.php",
 		"oF": 0
 		},
 	"\/public\/work\/brit-row-website\/images\/desktop-1.jpg": {
@@ -1379,46 +1813,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/brit-row-website\/index.php",
-		"oF": 0
-		},
-	"\/public\/work\/cashback-plus\/images\/desktop-natwest.jpg": {
-		"ft": 16384,
-		"iS": 107670,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/cashback-plus\/images\/desktop-natwest.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/cashback-plus\/images\/desktop-rbs.jpg": {
-		"ft": 16384,
-		"iS": 119831,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/cashback-plus\/images\/desktop-rbs.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/cashback-plus\/images\/mobile.jpg": {
-		"ft": 16384,
-		"iS": 119290,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/cashback-plus\/images\/mobile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/cashback-plus\/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/work\/cashback-plus\/index.php",
 		"oF": 0
 		},
 	"\/public\/work\/change-inc\/images\/brand-deck.jpg": {
@@ -1652,141 +2046,6 @@
 		"oAP": "\/public\/work\/content-by-design\/video\/hero-words.webm",
 		"oF": 0
 		},
-	"\/public\/work\/dove-only\/images\/article-mobile.jpg": {
-		"ft": 16384,
-		"iS": 108155,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/article-mobile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/images\/home-desktop.gif": {
-		"ft": 4194304,
-		"iS": 5452723,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/home-desktop.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/public\/work\/dove-only\/images\/home-desktop.jpg": {
-		"ft": 16384,
-		"iS": 73190,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/home-desktop.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/images\/hub-desktop.jpg": {
-		"ft": 16384,
-		"iS": 97064,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/hub-desktop.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/images\/product-detail-page-mobile.jpg": {
-		"ft": 16384,
-		"iS": 61536,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/product-detail-page-mobile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/images\/product-detail-page-tablet.jpg": {
-		"ft": 16384,
-		"iS": 36559,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/product-detail-page-tablet.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/images\/product-landing-page-tablet.jpg": {
-		"ft": 16384,
-		"iS": 68340,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/product-landing-page-tablet.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/images\/work-life-1.jpg": {
-		"ft": 16384,
-		"iS": 113049,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/work-life-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/images\/work-life-2.jpg": {
-		"ft": 16384,
-		"iS": 102460,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/work-life-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/images\/work-life-3.jpg": {
-		"ft": 16384,
-		"iS": 137304,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/images\/work-life-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/dove-only\/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/index.php",
-		"oF": 0
-		},
-	"\/public\/work\/dove-only\/video\/dove-home-page-desktop.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/video\/dove-home-page-desktop.mp4",
-		"oF": 0
-		},
-	"\/public\/work\/dove-only\/video\/dove-home-page-desktop.ogv": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/video\/dove-home-page-desktop.ogv",
-		"oF": 0
-		},
-	"\/public\/work\/dove-only\/video\/dove-home-page-desktop.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/work\/dove-only\/video\/dove-home-page-desktop.webm",
-		"oF": 0
-		},
 	"\/public\/work\/dove\/images\/article-mobile.jpg": {
 		"ft": 16384,
 		"iS": 117786,
@@ -1796,6 +2055,61 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/public\/work\/dove\/images\/baby-dove\/article-page.jpg": {
+		"ft": 16384,
+		"iS": 86320,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove\/images\/baby-dove\/article-page.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove\/images\/baby-dove\/client-facing.jpg": {
+		"ft": 16384,
+		"iS": 141790,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove\/images\/baby-dove\/client-facing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove\/images\/baby-dove\/home-page.jpg": {
+		"ft": 16384,
+		"iS": 75037,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove\/images\/baby-dove\/home-page.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove\/images\/baby-dove\/product-detail-page.jpg": {
+		"ft": 16384,
+		"iS": 44903,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove\/images\/baby-dove\/product-detail-page.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/dove\/images\/baby-dove\/product-landing-page.jpg": {
+		"ft": 16384,
+		"iS": 75193,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/dove\/images\/baby-dove\/product-landing-page.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/public\/work\/dove\/images\/home-desktop.gif": {
@@ -1922,52 +2236,149 @@
 		"oAP": "\/public\/work\/dove\/video\/dove-home-page-desktop.webm",
 		"oF": 0
 		},
-	"\/public\/work\/gzba-leaflet\/images\/front.jpg": {
-		"ft": 16384,
-		"iS": 111549,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/gzba-leaflet\/images\/front.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/gzba-leaflet\/images\/inside.jpg": {
-		"ft": 16384,
-		"iS": 97072,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/gzba-leaflet\/images\/inside.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/gzba-leaflet\/images\/reverse.jpg": {
-		"ft": 16384,
-		"iS": 109589,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/gzba-leaflet\/images\/reverse.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/gzba-leaflet\/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/work\/gzba-leaflet\/index.php",
-		"oF": 0
-		},
 	"\/public\/work\/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/index.php",
 		"oF": 0
+		},
+	"\/public\/work\/lego-klik\/images\/apps-collection-figma.jpg": {
+		"ft": 16384,
+		"iS": 480669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/apps-collection-figma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/components-and-ui.jpg": {
+		"ft": 16384,
+		"iS": 941137,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/components-and-ui.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/figma-team-files.jpg": {
+		"ft": 16384,
+		"iS": 737997,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/figma-team-files.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/icons-in-motion.gif": {
+		"ft": 4194304,
+		"iS": 550119,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/icons-in-motion.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/work\/lego-klik\/images\/klik-branding-montage.jpg": {
+		"ft": 16384,
+		"iS": 873405,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/klik-branding-montage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/klik-guidelines.jpg": {
+		"ft": 16384,
+		"iS": 473777,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/klik-guidelines.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/klik-screen-builder.jpg": {
+		"ft": 16384,
+		"iS": 949707,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/klik-screen-builder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/klik-system-principles.gif": {
+		"ft": 4194304,
+		"iS": 1080443,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/klik-system-principles.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/public\/work\/lego-klik\/images\/lego-klik-intro.jpg": {
+		"ft": 16384,
+		"iS": 531884,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/lego-klik-intro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/lego-klik-teaser.jpg": {
+		"ft": 16384,
+		"iS": 606659,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/lego-klik-teaser.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/scoping-and-exploration.jpg": {
+		"ft": 16384,
+		"iS": 1009170,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/scoping-and-exploration.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/signature-background.jpg": {
+		"ft": 16384,
+		"iS": 891091,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/signature-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/lego-klik\/images\/splash-screen.jpg": {
+		"ft": 16384,
+		"iS": 473526,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/images\/splash-screen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/work\/lego-klik\/index.php": {
 		"cB": 0,
@@ -1976,223 +2387,95 @@
 		"oAP": "\/public\/work\/lego-klik\/index.php",
 		"oF": 0
 		},
-	"\/public\/work\/microsoft-calendar\/images\/calendar-face-on.jpg": {
-		"ft": 16384,
-		"iS": 71183,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-face-on.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/microsoft-calendar\/images\/calendar-in-situ.jpg": {
-		"ft": 16384,
-		"iS": 100704,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-in-situ.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/microsoft-calendar\/images\/calendar-side-on.jpg": {
-		"ft": 16384,
-		"iS": 75257,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/microsoft-calendar\/images\/calendar-side-on.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/microsoft-calendar\/images\/selected-set-1.jpg": {
-		"ft": 16384,
-		"iS": 89957,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/microsoft-calendar\/images\/selected-set-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/microsoft-calendar\/images\/selected-set-2.jpg": {
-		"ft": 16384,
-		"iS": 145596,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/microsoft-calendar\/images\/selected-set-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/microsoft-calendar\/index.php": {
+	"\/public\/work\/lego-klik\/video\/klik-screen-builder.mp4": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/microsoft-calendar\/index.php",
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/klik-screen-builder.mp4",
 		"oF": 0
 		},
-	"\/public\/work\/mountain-tracks-brochures\/images\/back-cover.jpg": {
-		"ft": 16384,
-		"iS": 85338,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/back-cover.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/mountain-tracks-brochures\/images\/front-cover.jpg": {
-		"ft": 16384,
-		"iS": 98694,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/front-cover.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/mountain-tracks-brochures\/images\/spread-intro.jpg": {
-		"ft": 16384,
-		"iS": 69851,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/spread-intro.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/mountain-tracks-brochures\/images\/spread-top-5.jpg": {
-		"ft": 16384,
-		"iS": 66258,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/spread-top-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/mountain-tracks-brochures\/images\/spreads-angle.jpg": {
-		"ft": 16384,
-		"iS": 100725,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/mountain-tracks-brochures\/images\/spreads-angle.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/mountain-tracks-brochures\/index.php": {
+	"\/public\/work\/lego-klik\/video\/klik-screen-builder.ogv": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/work\/mountain-tracks-brochures\/index.php",
+		"oAP": "\/public\/work\/lego-klik\/video\/klik-screen-builder.ogv",
 		"oF": 0
 		},
-	"\/public\/work\/msi-c-and-w\/images\/back.jpg": {
-		"ft": 16384,
-		"iS": 50611,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/msi-c-and-w\/images\/back.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/msi-c-and-w\/images\/front.jpg": {
-		"ft": 16384,
-		"iS": 58793,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/msi-c-and-w\/images\/front.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/public\/work\/msi-c-and-w\/images\/inside.jpg": {
-		"ft": 16384,
-		"iS": 68516,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/msi-c-and-w\/images\/inside.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/msi-c-and-w\/index.php": {
+	"\/public\/work\/lego-klik\/video\/klik-screen-builder.webm": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/work\/msi-c-and-w\/index.php",
+		"oAP": "\/public\/work\/lego-klik\/video\/klik-screen-builder.webm",
 		"oF": 0
 		},
-	"\/public\/work\/nationwide\/index.php": {
+	"\/public\/work\/lego-klik\/video\/lego-klik-intro.mp4": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/nationwide\/index.php",
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/lego-klik-intro.mp4",
 		"oF": 0
 		},
-	"\/public\/work\/nationwide\/video\/nationwide-goals-dashboard.mp4": {
+	"\/public\/work\/lego-klik\/video\/lego-klik-intro.ogv": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/nationwide\/video\/nationwide-goals-dashboard.mp4",
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/lego-klik-intro.ogv",
 		"oF": 0
 		},
-	"\/public\/work\/nationwide\/video\/nationwide-visual-planner.mp4": {
+	"\/public\/work\/lego-klik\/video\/lego-klik-intro.webm": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/work\/nationwide\/video\/nationwide-visual-planner.mp4",
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/lego-klik-intro.webm",
 		"oF": 0
 		},
-	"\/public\/work\/nba-payback\/images\/logo.gif": {
-		"ft": 4194304,
-		"iS": 74348,
-		"oA": 0,
-		"oAP": "\/public\/work\/nba-payback\/images\/logo.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/public\/work\/nba-payback\/images\/scoring.gif": {
-		"ft": 4194304,
-		"iS": 129425,
-		"oA": 0,
-		"oAP": "\/public\/work\/nba-payback\/images\/scoring.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/public\/work\/nba-payback\/images\/tablet.jpg": {
-		"ft": 16384,
-		"iS": 88839,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/public\/work\/nba-payback\/images\/tablet.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/public\/work\/nba-payback\/index.php": {
+	"\/public\/work\/lego-klik\/video\/lego-klik-teaser.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/work\/nba-payback\/index.php",
+		"oAP": "\/public\/work\/lego-klik\/video\/lego-klik-teaser.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/lego-klik\/video\/signature-background.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/signature-background.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/lego-klik\/video\/signature-background.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/signature-background.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/lego-klik\/video\/signature-background.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/signature-background.webm",
+		"oF": 0
+		},
+	"\/public\/work\/lego-klik\/video\/splash-screen.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/splash-screen.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/lego-klik\/video\/splash-screen.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/splash-screen.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/lego-klik\/video\/splash-screen.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/lego-klik\/video\/splash-screen.webm",
 		"oF": 0
 		},
 	"\/public\/work\/penny-for-london\/images\/landing.jpg": {
@@ -2393,11 +2676,161 @@
 		"oAP": "\/public\/work\/reward-brand\/index.php",
 		"oF": 0
 		},
+	"\/public\/work\/ux-fest\/images\/insta-launch-story.jpg": {
+		"ft": 16384,
+		"iS": 1125542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/images\/insta-launch-story.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/ux-fest\/images\/speakers-list.jpg": {
+		"ft": 16384,
+		"iS": 866157,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/images\/speakers-list.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/ux-fest\/images\/tickets-button.jpg": {
+		"ft": 16384,
+		"iS": 991639,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/images\/tickets-button.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/ux-fest\/images\/ux-fest-exploration.jpg": {
+		"ft": 16384,
+		"iS": 765886,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/images\/ux-fest-exploration.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/ux-fest\/images\/ux-fest-hero-intro.jpg": {
+		"ft": 16384,
+		"iS": 624919,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/images\/ux-fest-hero-intro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/work\/ux-fest\/images\/whats-on.jpg": {
+		"ft": 16384,
+		"iS": 932435,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/images\/whats-on.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/work\/ux-fest\/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/work\/ux-fest\/index.php",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/insta-launch-story.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/insta-launch-story.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/insta-launch-story.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/insta-launch-story.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/insta-launch-story.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/insta-launch-story.webm",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/speakers-list.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/speakers-list.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/speakers-list.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/speakers-list.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/speakers-list.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/speakers-list.webm",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/tickets-button.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/tickets-button.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/tickets-button.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/tickets-button.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/tickets-button.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/tickets-button.webm",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/ux-fest-hero-intro.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/ux-fest-hero-intro.mp4",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/ux-fest-hero-intro.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/ux-fest-hero-intro.ogv",
+		"oF": 0
+		},
+	"\/public\/work\/ux-fest\/video\/ux-fest-hero-intro.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/work\/ux-fest\/video\/ux-fest-hero-intro.webm",
 		"oF": 0
 		},
 	"\/public\/work\/virgin-holidays\/images\/destination-heroes-in-progress.jpg": {

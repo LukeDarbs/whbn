@@ -36,6 +36,14 @@ include("posts.php");
 								<li><img src="images/desktop-2.jpg" alt="<?php echo $this_post['title']; ?> – Landing page slide 2" /></li>
 							</ul>
 						</li>
+						<li class="intro-1-col">
+							<h1><?php echo $this_post['title']; ?></h1>
+							<p>A website for audio hire professionals doesn’t have to be a boring kit-list,
+								especially if you’re the best in the UK. For the Wordpress powered site, we told
+								the story using images of the world famous acts they work with and dynamic visualisations
+								to show the breadth of different project types they manage concurrently.</p>
+							<p> Built in collaboration with the talented <a href="http://antonywalton.com/" target="_blank" title="Antony Walton, web and graphic designer" >Mr.&nbsp;Walton</a>.</p>
+						</li>
 						<li>
 							<img src="images/desktop-history.jpg" alt="<?php echo $this_post['title']; ?> – History page" />
 						</li>
@@ -53,19 +61,6 @@ include("posts.php");
 				</div>
 
 			</div> <!-- /.gallery -->
-
-			<div class="row">
-
-				<div class="description">
-					<h1><?php echo $this_post['title']; ?></h1>
-					<p>A website for audio hire professionals doesn’t have to be a boring kit-list,
-						especially if you’re the best in the UK. For the Wordpress powered site, we told
-						the story using images of the world famous acts they work with and dynamic visualisations
-						to show the breadth of different project types they manage concurrently.</p>
-					<p> Built in collaboration with the talented <a href="http://antonywalton.com/" target="_blank" title="Antony Walton, web and graphic designer" >Mr.&nbsp;Walton</a>.</p>
-				</div>
-
-			</div>
 
 		</article> <!-- /.container -->
 

@@ -33,6 +33,11 @@
 			position: relative;
 		}
 
+		li.intro-1-col {
+			max-width: 640px;
+			margin: 0 auto;
+		}
+
 		li.collapse {
 			@media (min-width: @screen-sm-min) {
 				margin: -40px 0 ;
@@ -49,6 +54,90 @@
 			 background: transparent url('img/background-1000.jpg') no-repeat;
 			 .background-cover(100% auto);
 		}
+	}
+
+}
+//
+// New gallery layout to support full-width
+// ----------------------------------------
+
+
+.gallery-new {
+
+	float: left;
+	width: 100%;
+	overflow: hidden;
+
+	ul {
+		position: relative;
+		width: 100%;
+		margin: 0 auto ;
+		padding: 0;
+		list-style: none;
+
+		li {
+			padding: 0 ;
+			margin: 60px auto ;
+			width: 82%;
+			position: relative;
+			max-width: 1000px;
+			clear: both;
+			&:after {
+				content: "";
+				clear: both;
+				display: table;
+			}
+			@media (min-width: @screen-sm-min) {
+				width: 72%;
+				margin: 100px auto;
+			}
+			@media (min-width: @screen-lg-min) {
+				width: 100% ;
+				margin: 160px auto ;
+			}
+		}
+
+		li.intro-1-col {
+			max-width: 640px;
+			margin: 0 auto;
+		}
+
+		li.intro-2-col {
+			margin: 0 auto;
+		}
+
+		.column {
+			@media (min-width: @screen-lg-min) {
+				float: left;
+				width: 50%;
+				padding: 0 20px;
+				text-align: left ;
+			}
+		}
+
+		li.banner {
+			padding: 0;
+			width: 100%;
+			max-width: 100%;
+			img {
+				width: 150%;
+				max-width: 150%;
+				margin: 0 -25%;
+			}
+			@media (min-width: @screen-sm-min) {
+				img {
+					width: 100%;
+					max-width: 2000px;
+					margin: 0 auto;
+				}
+			}
+		}
+
+		img {
+			margin: auto;
+			.img-responsive()
+		}
+
 	}
 
 }

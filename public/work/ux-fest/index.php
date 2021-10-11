@@ -25,9 +25,7 @@ include("posts.php");
 
 		<article class="container">
 
-			<div class="gallery">
-
-				<div class="gallery-width">
+			<div class="gallery-new">
 
 					<ul>
 						<li>
@@ -38,6 +36,15 @@ include("posts.php");
 								<source src="video/ux-fest-hero-intro.ogv" type="video/ogg" />
 								<p>UX Fest landing page</p>
 							</video>
+						</li>
+						<li class="intro-1-col">
+							<h1><?php echo $this_post['title']; ?></h1>
+							<p>I led the design for <a href="https://2021.uxlondon.com/" target="_blank" title="UX Fest – a three-day online conference celebrating interaction and product design" >UX&nbsp;Fest</a>
+								taking the parent UX&nbsp;London brand as a foundation to create a playful, expressive and celebratory new visual direction. Animation played a big part in setting the tone on the website
+								and visual stings during the talks for the online conference.</p>
+							<p>I’ve really enjoyed working with <a href="https://clearleft.com/" target="_blank" title="Clearleft – Original UX masters" >Clearleft</a>
+								on a few conference projects, especially the process of finding the right visual language for the brand,
+								website and comms in a short timeframe.</p>
 						</li>
 						<li>
 							<!-- <img src="images/insta-launch-story.jpg" alt="UX Fest landing page" /> -->
@@ -74,24 +81,7 @@ include("posts.php");
 						</li>
 					</ul>
 
-				</div>
-
-			</div> <!-- /.gallery -->
-
-			<div class="row">
-
-				<div class="description">
-					<h1><?php echo $this_post['title']; ?></h1>
-					<p>I led the design for <a href="https://2021.uxlondon.com/" target="_blank" title="UX Fest – a three-day online conference celebrating interaction and product design" >UX&nbsp;Fest</a>
-						taking the parent UX&nbsp;London brand as a foundation to create a new visual direction
-						that was playful, expressive and celebratory. Animation played a big part in setting the tone on the website
-						and visual stings during the talks for the online conference.</p>
-					<p>I’ve really enjoyed working with <a href="https://clearleft.com/" target="_blank" title="Clearleft – Original UX masters" >Clearleft</a>
-						on a few conference projects, especially the process of finding the right visual language for the brand,
-						website and comms in a short timeframe.</p>
-				</div>
-
-			</div>
+			</div> <!-- /.gallery-new -->
 
 		</article> <!-- /.container -->
 

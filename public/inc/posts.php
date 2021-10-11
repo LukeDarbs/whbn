@@ -150,7 +150,7 @@ $post_info = array
 					'post_name' => "dove",
 					'post_url' => "work/dove",
 					'description' => "Dove and Baby Dove global websites.",
-					'title' => "Dove and Baby Dove",
+					'title' => "Dove",
 					'parent_menu_id' => 2
 					),
 

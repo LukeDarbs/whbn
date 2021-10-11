@@ -25,9 +25,7 @@ include("posts.php");
 
 		<article class="container">
 
-			<div class="gallery">
-
-				<div class="gallery-width">
+			<div class="gallery-new">
 
 					<ul>
 						<li>
@@ -38,6 +36,13 @@ include("posts.php");
 								<source src="video/virgin-holidays-app.ogv" type="video/ogg" />
 								<p>Virgin Holidays app</p>
 							</video>
+						</li>
+						<li class="intro-1-col">
+							<h1><?php echo $this_post['title']; ?></h1>
+							<p>Leading the design for their first app presented a great opportunity to encourage the growing
+								culture of human-centred design at Virgin&nbsp;Holidays. From a blank-canvas, various rounds of research
+								and user testing helped us shape the app, deliver a fantastic experience for holidaymakers and a
+								solid platform for a long list of future features.</p>
 						</li>
 						<li>
 							<img src="images/flight-and-hotel-mobile.jpg" alt="Flight details and hotel details in the Virgin Holidays app" />
@@ -68,21 +73,7 @@ include("posts.php");
 						</li>
 					</ul>
 
-				</div>
-
 			</div> <!-- /.gallery -->
-
-			<div class="row">
-
-				<div class="description">
-					<h1><?php echo $this_post['title']; ?></h1>
-					<p>Leading the design for their first app presented a great opportunity to encourage the growing
-						culture of human-centred design at Virgin&nbsp;Holidays. From a blank-canvas, various rounds of research
-						and user testing helped us shape the app, deliver a fantastic experience for holidaymakers and a
-						solid platform for a long list of future features.
-				</div>
-
-			</div>
 
 		</article> <!-- /.container -->
 

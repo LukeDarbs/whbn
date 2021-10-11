@@ -23,11 +23,9 @@ include("posts.php");
 
 		<?php // include("nav.php"); ?>
 
-		<article class="container">
+		<article>
 
-			<div class="gallery">
-
-				<div class="gallery-width">
+			<div class="gallery-new">
 
 					<ul>
 						<!-- <li>
@@ -46,14 +44,16 @@ include("posts.php");
 								<p>LEGO Klik intro</p>
 							</video>
 						</li>
-						<li>
+						<li class="intro-1-col">
+							<h1><?php echo $this_post['title']; ?></h1>
+							<p>Klik is an ambitious new design system for everyone’s favourite design system. I led the product design as part of
+								<a href="https://unitedus.co.uk/" target="_blank" title="UnitedUs – brand agency extraordinaire" >UnitedUs</a>, collaborating with LEGO’s excellent UX team.</p>
+							<p>Ironically, our first step was to create a compelling brand and story to explain internally how a design system could help
+								LEGO work well and create better digital experiences for their 20,000+ employees. As the brand teaser and proof-of-concept
+								started to excite key stakeholders, we were free to work on the system in earnest.</p>
+						</li>
+						<li class="banner" style="background-color: #452b6b;">
 							<img src="images/klik-branding-montage.jpg" alt="A snapshot of the branding designed to promote Klik within LEGO" />
-						</li>
-						<li>
-							<img src="images/components-and-ui.jpg" alt="An example of Klik’s Figma components for UI design and development" />
-						</li>
-						<li>
-							<img src="images/apps-collection-figma.jpg" alt="Some example LEGO apps and products designed using the Klik design system" />
 						</li>
 						<li>
 							<video poster="images/splash-screen.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline >
@@ -62,6 +62,21 @@ include("posts.php");
 								<source src="video/splash-screen.ogv" type="video/ogg" />
 								<p>An example ‘signature moment’ loading screen</p>
 							</video>
+						</li>
+						<li>
+							<img src="images/components-and-ui.jpg" alt="An example of Klik’s Figma components for UI design and development" />
+						</li>
+						<li class="banner" style="background-color: #452b6b;">
+							<img src="images/apps-collection-figma.jpg" alt="Some example LEGO apps and products designed using the Klik design system" />
+						</li>
+						<li class="intro-1-col">
+							<p>LEGO has thousands of web sites and apps so they came ready with a long shopping list for what the system should include.
+								Choosing Figma helped us work closely and seamlessly with the LEGO team despite the pandemic keeping us spread across the
+								continent.</p>
+							<p>We really sweat the details to design and build components to be flexible, intuitive and robust for end users.
+								Our visual and interaction principles helped to make sure the LEGO DNA was part of every component.
+							<p>Using Klik, LEGO teams can now design, prototype and build sites and apps much more quickly than before. Even better –
+								they know that a Klik experience will work well and be unmistakably LEGO.</p>
 						</li>
 						<li>
 							<video poster="images/klik-screen-builder.jpg" width="100% !important" height="auto 100% !important" muted autoplay loop playsinline preload="auto" >
@@ -96,29 +111,7 @@ include("posts.php");
 						</li>
 					</ul>
 
-				</div>
-
-			</div> <!-- /.gallery -->
-
-			<div class="row">
-
-				<div class="description">
-					<h1><?php echo $this_post['title']; ?></h1>
-					<p>Klik is an ambitious new design system for everyone’s favourite design system. I led the product design as part of
-						<a href="https://unitedus.co.uk/" target="_blank" title="UnitedUs – brand agency extraordinaire" >UnitedUs</a>,
-						collaborating with LEGO’s excellent UX team.</p>
-					<p>Ironically, our first step was to create a compelling brand and story to explain internally how a design system could help
-						LEGO work well and create better digital experiences for their 20,000+ employees. As the brand teaser and proof-of-concept
-						started to excite key stakeholders, we were free to work on the system in earnest.</p>
-					<p>LEGO has thousands of web sites and apps so they came ready with a long shopping list for what the system should include.
-						We chose Figma so we could work closely and seamlessly with the LEGO team despite the pandemic keeping us spread across the
-						continent. We really sweat the details to design and build components to be flexible, intuitive and robust for end users.
-						Our visual and interaction principles helped to make sure the LEGO DNA was part of every component.
-						<p>Using Klik, LEGO teams can now design, prototype and build sites and apps much more quickly than before. Even better –
-							they know that a Klik experience will work well and be unmistakably LEGO.</p>
-				</div>
-
-			</div>
+			</div> <!-- /.gallery-new -->
 
 		</article> <!-- /.container -->
 
