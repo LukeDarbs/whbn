@@ -15,7 +15,7 @@ include("posts.php");
 	$this_post = $post_info['brit_row_website'];
 
 	$prev_post = $post_info['reward_brand'];
-	$next_post = $post_info['lego_klik'];
+	$next_post = $post_info['ux_fest'];
 
 ?>
 

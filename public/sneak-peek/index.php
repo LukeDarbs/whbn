@@ -1,6 +1,6 @@
 <?php
 
-header("Location: ../sneak-peek/santander");
+header("Location: ../sneak-peek/lego-klik");
 die();
 
 ?>

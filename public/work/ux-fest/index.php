@@ -14,8 +14,8 @@ include("posts.php");
 
 	$this_post = $post_info['ux_fest'];
 
-	$prev_post = $post_info['virgin_holidays'];
-	$next_post = $post_info['dove'];
+	$prev_post = $post_info['brit_row_website'];
+	$next_post = $post_info['change_inc'];
 
 ?>
 
