@@ -4,7 +4,7 @@ set_include_path( "../../inc/" );
 
 include("vars.php");
 include("functions.php");
-include("posts.php");
+include("posts-private.php");
 
 ?>
 
