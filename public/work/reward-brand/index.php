@@ -36,12 +36,6 @@ include("posts.php");
 						<li>
 							<img src="images/website-desktop.jpg" alt="Reward website" />
 						</li>
-						<li class="collapse">
-							<div class="link-banner">
-								<a href="http://www.rewardinsight.com/" target="_blank" title="Open the Reward website in a new tab"  >
-								Visit the Reward website</a>
-							</div>
-						</li>
 						<li>
 							<img src="images/website-responsive.jpg" alt="Reward website" />
 						</li>
