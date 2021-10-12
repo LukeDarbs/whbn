@@ -1297,8 +1297,9 @@ abbr[title] {
   margin-top: 40px;
   padding: 0 30px;
   text-align: left;
-  letter-spacing: .6px;
+  letter-spacing: .5px;
   font-size: 16.362px;
+  line-height: 1.5;
   color: transparent;
 }
 .prev-project:hover,
@@ -1346,7 +1347,7 @@ abbr[title] {
   }
   .prev-project:hover p,
   .next-project:hover p {
-    color: #999;
+    color: #ccc;
     width: 150px;
   }
 }
