@@ -234,6 +234,26 @@ $post_info = array
 					'parent_menu_id' => 2
 					),
 
+				"lloyds" => array
+					(
+					'id' => 223,
+					'post_name' => "lloyds",
+					'post_url' => "work/lloyds",
+					'description' => "Design for Lloyds of London’s new Services Hub product.",
+					'title' => "Lloyds of London",
+					'parent_menu_id' => 2
+					),
+
+				"ingenuity" => array
+					(
+					'id' => 224,
+					'post_name' => "ingenuity",
+					'post_url' => "work/ingenuity",
+					'description' => "Prototype for Ingenuity Insider a professional social platform.",
+					'title' => "Ingenuity Insider",
+					'parent_menu_id' => 2
+					),
+
 		"404" => array
 			(
 			'id' => 9404,

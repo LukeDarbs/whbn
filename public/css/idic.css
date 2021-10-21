@@ -1443,46 +1443,76 @@ abbr[title] {
   }
 }
 .post-nba-payback,
-.post-change-inc {
+.post-change-inc,
+.post-lloyds,
+.post-ingenuity {
   background: #000 url();
 }
 .post-nba-payback .prev-project,
 .post-change-inc .prev-project,
+.post-lloyds .prev-project,
+.post-ingenuity .prev-project,
 .post-nba-payback .next-project,
-.post-change-inc .next-project {
+.post-change-inc .next-project,
+.post-lloyds .next-project,
+.post-ingenuity .next-project {
   opacity: .2;
 }
 .post-nba-payback .prev-project:hover,
 .post-change-inc .prev-project:hover,
+.post-lloyds .prev-project:hover,
+.post-ingenuity .prev-project:hover,
 .post-nba-payback .next-project:hover,
-.post-change-inc .next-project:hover {
+.post-change-inc .next-project:hover,
+.post-lloyds .next-project:hover,
+.post-ingenuity .next-project:hover {
   opacity: .6;
 }
 @media (min-width: 992px) {
   .post-nba-payback .prev-project:hover p,
   .post-change-inc .prev-project:hover p,
+  .post-lloyds .prev-project:hover p,
+  .post-ingenuity .prev-project:hover p,
   .post-nba-payback .next-project:hover p,
-  .post-change-inc .next-project:hover p {
+  .post-change-inc .next-project:hover p,
+  .post-lloyds .next-project:hover p,
+  .post-ingenuity .next-project:hover p {
     color: black;
   }
 }
 .post-nba-payback .prev-project,
-.post-change-inc .prev-project {
+.post-change-inc .prev-project,
+.post-lloyds .prev-project,
+.post-ingenuity .prev-project {
   background-image: url('img/arrow-left-black.svg');
 }
 .post-nba-payback .next-project,
-.post-change-inc .next-project {
+.post-change-inc .next-project,
+.post-lloyds .next-project,
+.post-ingenuity .next-project {
   background-image: url('img/arrow-right-black.svg');
 }
 .post-nba-payback footer,
-.post-change-inc footer {
+.post-change-inc footer,
+.post-lloyds footer,
+.post-ingenuity footer {
   color: #555;
 }
 .post-nba-payback a,
-.post-change-inc a {
+.post-change-inc a,
+.post-lloyds a,
+.post-ingenuity a {
   color: #206EB2;
 }
-.post-change-inc {
+.post-change-inc,
+.post-lloyds,
+.post-ingenuity {
   background: #191919 ;
+}
+.post-lloyds .prev-project,
+.post-ingenuity .prev-project,
+.post-lloyds .next-project,
+.post-ingenuity .next-project {
+  display: none;
 }
 /*# sourceMappingURL=idic.css.map */

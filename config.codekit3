@@ -23,11 +23,11 @@
 		"oAP": "\/public\/404\/index.php",
 		"oF": 0
 		},
-	"\/public\/about\/cv\/luke-darbyshire-cv-2021-07.pdf": {
+	"\/public\/about\/cv\/luke-darbyshire-cv-2021-10.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/about\/cv\/luke-darbyshire-cv-2021-07.pdf",
+		"oAP": "\/public\/about\/cv\/luke-darbyshire-cv-2021-10.pdf",
 		"oF": 0
 		},
 	"\/public\/apple-touch-icon-precomposed.png": {
@@ -1948,6 +1948,46 @@
 		"oAP": "\/public\/sneak-peek\/index.php",
 		"oF": 0
 		},
+	"\/public\/sneak-peek\/ingenuity\/images\/sign-up.jpg": {
+		"ft": 16384,
+		"iS": 524172,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/ingenuity\/images\/sign-up.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/ingenuity\/images\/video-live-comment.jpg": {
+		"ft": 16384,
+		"iS": 1351091,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/ingenuity\/images\/video-live-comment.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/ingenuity\/images\/welcome.jpg": {
+		"ft": 16384,
+		"iS": 1126183,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/ingenuity\/images\/welcome.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/ingenuity\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/ingenuity\/index.php",
+		"oF": 0
+		},
 	"\/public\/sneak-peek\/lego-klik\/images\/apps-collection-figma.jpg": {
 		"ft": 16384,
 		"iS": 480669,
@@ -2181,6 +2221,67 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/sneak-peek\/lego-klik\/video\/splash-screen.webm",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/lloyds\/images\/hub-and-detail.jpg": {
+		"ft": 16384,
+		"iS": 786725,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/lloyds\/images\/hub-and-detail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/lloyds\/images\/service-detail-laptop.jpg": {
+		"ft": 16384,
+		"iS": 545094,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/lloyds\/images\/service-detail-laptop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/lloyds\/images\/services-hub-feedback.jpg": {
+		"ft": 16384,
+		"iS": 26549,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/lloyds\/images\/services-hub-feedback.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/sneak-peek\/lloyds\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/lloyds\/index.php",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/lloyds\/video\/services-hub-feedback.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/lloyds\/video\/services-hub-feedback.mp4",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/lloyds\/video\/services-hub-feedback.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/lloyds\/video\/services-hub-feedback.ogv",
+		"oF": 0
+		},
+	"\/public\/sneak-peek\/lloyds\/video\/services-hub-feedback.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/sneak-peek\/lloyds\/video\/services-hub-feedback.webm",
 		"oF": 0
 		},
 	"\/public\/sneak-peek\/microsoft-calendar\/images\/calendar-face-on.jpg": {
@@ -3062,7 +3163,7 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/work\/change-inc\/images\/Home.jpg": {
+	"\/public\/work\/change-inc\/images\/home.jpg": {
 		"ft": 16384,
 		"iS": 712422,
 		"jF": 0,
@@ -3106,7 +3207,7 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/work\/change-inc\/images\/video.jpg": {
+	"\/public\/work\/change-inc\/images\/Video.jpg": {
 		"ft": 16384,
 		"iS": 572231,
 		"jF": 0,
@@ -3135,21 +3236,21 @@
 		"oAP": "\/public\/work\/change-inc\/index.php",
 		"oF": 0
 		},
-	"\/public\/work\/change-inc\/video\/responsive.mp4": {
+	"\/public\/work\/change-inc\/video\/Responsive.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/change-inc\/video\/responsive.mp4",
 		"oF": 0
 		},
-	"\/public\/work\/change-inc\/video\/responsive.ogv": {
+	"\/public\/work\/change-inc\/video\/Responsive.ogv": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/change-inc\/video\/responsive.ogv",
 		"oF": 0
 		},
-	"\/public\/work\/change-inc\/video\/responsive.webm": {
+	"\/public\/work\/change-inc\/video\/Responsive.webm": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
