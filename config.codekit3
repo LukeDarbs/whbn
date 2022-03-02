@@ -3163,7 +3163,7 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/work\/change-inc\/images\/home.jpg": {
+	"\/public\/work\/change-inc\/images\/Home.jpg": {
 		"ft": 16384,
 		"iS": 712422,
 		"jF": 0,
@@ -3207,7 +3207,7 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/work\/change-inc\/images\/Video.jpg": {
+	"\/public\/work\/change-inc\/images\/video.jpg": {
 		"ft": 16384,
 		"iS": 572231,
 		"jF": 0,
@@ -3236,21 +3236,21 @@
 		"oAP": "\/public\/work\/change-inc\/index.php",
 		"oF": 0
 		},
-	"\/public\/work\/change-inc\/video\/Responsive.mp4": {
+	"\/public\/work\/change-inc\/video\/responsive.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/change-inc\/video\/responsive.mp4",
 		"oF": 0
 		},
-	"\/public\/work\/change-inc\/video\/Responsive.ogv": {
+	"\/public\/work\/change-inc\/video\/responsive.ogv": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/work\/change-inc\/video\/responsive.ogv",
 		"oF": 0
 		},
-	"\/public\/work\/change-inc\/video\/Responsive.webm": {
+	"\/public\/work\/change-inc\/video\/responsive.webm": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
